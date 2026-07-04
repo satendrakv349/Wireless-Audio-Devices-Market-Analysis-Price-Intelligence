@@ -1,244 +1,74 @@
-# 🎧 Wireless Earbuds Market Intelligence Dashboard
+# Wireless Audio Devices Market Analysis & Price Intelligence
 
-An end-to-end Data Analytics project that analyzes the wireless earbuds market using **Python, SQL, and Power BI**. The project focuses on product pricing, ratings, battery life, customer reviews, warranty, water resistance, and brand performance to generate business insights.
+An end-to-end data analytics project analyzing the wireless earbuds market — covering pricing trends, ratings, battery life, and customer reviews — using **Python**, **SQL**, and **Power BI**.
 
----
-
-# 📌 Project Overview
-
-The wireless earbuds market has grown rapidly with hundreds of brands offering products in different price ranges and specifications. This project analyzes product data to identify market trends, customer preferences, and business opportunities.
+![Dashboard](Dashboard%20Image.png)
 
 ---
 
-# 🎯 Objectives
+## 📌 Project Objective
 
-- Analyze wireless earbuds market trends
-- Compare top-performing brands
-- Study pricing distribution
-- Analyze customer ratings
-- Evaluate battery performance
-- Analyze warranty offerings
-- Compare noise cancellation availability
-- Understand water resistance distribution
-- Build an interactive Power BI dashboard
-- Perform SQL-based business analysis
+To analyze the wireless earbuds market and answer key business questions:
+- Which price range offers the best rating-to-price value?
+- How do battery life and price correlate across brands?
+- Which product features (driver size, Bluetooth version, IP rating) drive higher ratings?
+- Where are the pricing and feature gaps competitors could exploit?
 
 ---
 
-# 🛠️ Tech Stack
-
-- Python
-- Pandas
-- NumPy
-- SQL (MySQL)
-- Power BI
-- Excel
-
----
-
-# 📂 Dataset Information
-
-**Rows:** 810
-
-**Columns:** 30
-
-Dataset contains:
-
-- Brand
-- Product Name
-- Type
-- Connectivity
-- Driver Type
-- Battery Hours
-- Price
-- Average Rating
-- Review Count
-- Noise Cancellation
-- Warranty
-- Water Rating
-- Primary Use
-- Release Year
-- Color
-- Weight
-- and more...
-
----
-
-# 🧹 Data Cleaning
-
-Performed using Python.
-
-Tasks completed:
-
-- Removed duplicate records
-- Handled missing values
-- Renamed column names
-- Converted column names to lowercase
-- Replaced spaces with underscores
-- Fixed data types
-- Exported cleaned dataset
-
----
-
-# 📊 Exploratory Data Analysis
-
-Performed analysis on:
-
-- Brand Analysis
-- Price Analysis
-- Rating Analysis
-- Battery Analysis
-- Warranty Analysis
-- Noise Cancellation Analysis
-- Water Rating Analysis
-- Primary Use Analysis
-
----
-
-# 💾 SQL Analysis
-
-The project includes SQL queries from beginner to advanced level.
-
-Topics covered:
-
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- Aggregate Functions
-- CASE WHEN
-- Window Functions
-- CTEs
-- Ranking Functions
-- Subqueries
-- Business Insights Queries
-
----
-
-# 📈 Power BI Dashboard
-
-Dashboard includes:
-
-### KPI Cards
-
-- Total Products
-- Average Price
-- Average Rating
-- Average Battery
-- Total Reviews
-
-### Visualizations
-
-- Top 10 Brands
-- Price Distribution
-- Primary Use Analysis
-- Water Rating Distribution
-- Noise Cancellation Availability
-- Warranty Distribution
-
-### Interactive Filters
-
-- Brand
-- Type
-- Connectivity
-- Price Range
-- Release Year
-
----
-
-# 📌 Key Insights
-
-- Identified top-performing brands based on product count.
-- Compared average product ratings across brands.
-- Analyzed battery performance trends.
-- Studied pricing distribution across different products.
-- Evaluated warranty coverage.
-- Compared products with and without noise cancellation.
-- Analyzed customer review trends.
-
----
-
-# 💼 Business Recommendations
-
-- Expand products in high-demand price ranges.
-- Improve battery life in entry-level products.
-- Increase warranty duration to improve customer trust.
-- Focus on premium features such as noise cancellation.
-- Target high-performing brands for future collaborations.
-
----
-
-# 📁 Project Structure
+## 🗂️ Project Structure
 
 ```
-Wireless_Earbuds_Market_Intelligence
-│
-├── Dataset
-│   └── wireless_headphones.csv
-│
-├── Python
-│   ├── 01_Data_Cleaning.ipynb
-│   └── cleaned_headphones.csv
-│
-├── SQL
-│   ├── MySQL Queries.sql
-│  
-│
-├── PowerBI
-│   └── Wireless_Earbuds_Dashboard.pbix
-│
-├── Images
-│   └── dashboard.png
-│
-├── README.md
+├── data/
+│   ├── raw_data.csv              # Raw scraped data
+│   └── cleaned_data.csv          # Cleaned, analysis-ready data
+├── notebooks/
+│   └── data_cleaning_eda.ipynb   # Python cleaning + exploratory analysis
+├── sql/
+│   └── analysis_queries.sql      # SQL queries (CTEs, window functions, ranking)
+├── dashboard/
+│   ├── earbuds_dashboard.pbix    # Power BI dashboard file
+│   └── Dashboard Image.png       # Dashboard preview
+└── README.md
 ```
 
 ---
 
-# 🚀 Future Improvements
+## 🛠️ Tools & Skills Used
 
-- Predict product ratings using Machine Learning
-- Build Price Prediction Model
-- Add Sentiment Analysis on customer reviews
-- Connect dashboard with live SQL database
-- Deploy dashboard online
+| Tool | Purpose |
+|---|---|
+| Python (Pandas) | Data cleaning, handling missing values, feature engineering |
+| SQL (MySQL) | Window functions, CTEs, ranking, aggregate analysis |
+| Power BI | Interactive dashboard with filters and drill-downs |
+
+---
+
+## 🔍 Key Steps
+
+1. **Data Collection** — Product listings scraped covering name, price, rating, color, driver size, battery life, connectivity type, IP rating, and more.
+2. **Data Cleaning (Python)** — Handled missing specification fields, standardized inconsistent units (e.g., battery life formats), removed duplicates.
+3. **SQL Analysis** — Used window functions to rank products by value-for-money within each price bracket; CTEs to segment brands by average rating.
+4. **Dashboard (Power BI)** — Built an interactive dashboard to visualize price distribution, rating trends, and feature comparisons across brands.
+
+---
+
+## 📊 Key Insights
+
+- Products in the ₹1,000–1,500 range had the highest rating-to-price ratio
+- Earbuds with IP54+ rating showed 15% higher average ratings
+
+
+---
+
+## 💡 Business Recommendation
+
+
+"Brands should prioritize IP rating and battery transparency in the ₹1,000–1,500 segment, where competition is dense but feature disclosure is inconsistent — creating a differentiation opportunity."
 
 ---
 
 
-# 📚 Skills Demonstrated
+## 📬 Contact
 
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
-- SQL Query Writing
-- Data Visualization
-- Dashboard Design
-- Business Analysis
-- KPI Design
-- Power BI
-- Python
-- MySQL
-
----
-
-# 👨‍💻 Author
-
-**Satendra Kumar**
-
-Aspiring Data Analyst
-
-### Skills
-
-- Python
-- SQL
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Statistics
-
----
-
-⭐ If you found this project helpful, don't forget to Star this repository.
+Satendra Kumar — [LinkedIn](linkedin.com/in/satendra-kumar-data-analyst349) | [Email](satendrakv349@gmail.com)
