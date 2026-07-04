@@ -206,17 +206,6 @@ Wireless_Earbuds_Market_Intelligence
 
 ---
 
-# 📸 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-Images/dashboard.png
-```
-
----
 
 # 📚 Skills Demonstrated
 
