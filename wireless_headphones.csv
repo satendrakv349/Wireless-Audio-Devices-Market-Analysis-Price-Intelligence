@@ -1,0 +1,811 @@
+product_name,brand,model,color,noise_cancellation,battery_hrs,bt_version,charging_port,water_rating,price_usd,release_year,warranty_yrs,avg_rating,review_count,primary_use,price_segment,rating_category,battery_category,warranty_category
+Oppo Enco Air 3,Oppo,Enco Air 3,Dark Green,Yes,21.5,5.0,USB-C,IP55,240,2023,1,4.5,591,Gaming,Mid-Range,Excellent,Medium,Standard
+Skullcandy Rail,Skullcandy,Rail,Carbon,Yes,33.5,5.3,Lightning,Not Rated,360,2023,1,4.5,4179,Music/Casual,Premium,Excellent,Medium,Standard
+Apple AirPods 2,Apple,AirPods 2,Carbon,No,28.8,5.0,USB-C,Not Rated,130,2023,2,4.1,2552,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Rose Gold,Yes,34.5,4.2,USB-C,IPX2,270,2021,2,4.8,14476,Bass/Casual,Premium,Excellent,Medium,Extended
+JBL Tour Pro 2,JBL,Tour Pro 2,Indigo,Yes,33.3,4.2,Lightning,IPX7,220,2021,1,4.5,662,Work/Office,Mid-Range,Excellent,Medium,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Space Gray,Yes,29,5.2,Micro-USB,IP55,260,2021,2,4.1,6253,Studio/Pro,Premium,Good,Medium,Extended
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Cream,No,23.4,5.2,USB-C,Not Rated,210,2019,2,4.4,1615,Commuting/Travel,Mid-Range,Good,Medium,Extended
+boAt Nirvana Crystl,boAt,Nirvana Crystl,Navy,Yes,13.4,5.0,USB-C,Not Rated,300,2020,2,3.8,7664,Music/Audiophile,Premium,Average,Low,Extended
+Oppo Enco Air 2,Oppo,Enco Air 2,Cream,No,28.3,5.1,USB-C,IP57,100,2022,1,4.8,9210,Work/Office,Mid-Range,Excellent,Medium,Standard
+Oppo Enco Air 3,Oppo,Enco Air 3,Red,Yes,57.6,5.2,USB-C,IP55,240,2023,2,4.2,581,Music/Casual,Mid-Range,Good,High,Extended
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Pearl White,Yes,24.5,5.0,USB-C,IP57,340,2024,1,4.4,5962,Budget/Everyday,Premium,Good,Medium,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Indigo,Yes,21.4,5.3,USB-C,IPX4,240,2020,2,4.3,660,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Anker Soundcore P40i,Anker Soundcore,P40i,Gunmetal,Yes,26.2,4.2,Micro-USB,Not Rated,340,2022,1,4.7,2795,Commuting/Travel,Premium,Excellent,Medium,Standard
+CMF Buds Pro,CMF,Buds Pro,Rose Gold,Yes,39.9,5.2,Lightning,IPX4,260,2018,1,4.5,4859,Commuting/Travel,Premium,Excellent,Medium,Standard
+pTron Bassbuds Jade,pTron,Bassbuds Jade,Forest Green,No,26.7,5.0,Lightning,IP54,260,2018,1,4.4,518,Budget/Everyday,Premium,Good,Medium,Standard
+Noise Buds VS104,Noise,Buds VS104,Space Gray,Yes,23.9,5.0,Lightning,IPX2,330,2020,2,4.8,9861,Sport/Fitness,Premium,Excellent,Medium,Extended
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Space Gray,No,16.3,5.1,USB-C,IPX7,140,2023,2,4.9,920,Budget/Everyday,Mid-Range,Excellent,Low,Extended
+Redmi Buds 6,Redmi,Buds 6,Indigo,No,32.6,5.0,USB-C,IPX7,100,2022,1,4.2,14009,Music/Casual,Mid-Range,Good,Medium,Standard
+Anker Soundcore P40i,Anker Soundcore,P40i,Titanium,No,26.3,Multipoint 5.3,Lightning,IP54,170,2020,1,4.6,2570,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Forest Green,Yes,36.6,5.2,USB-C,Not Rated,360,2023,1,4,5823,Sport/Fitness,Premium,Good,Medium,Standard
+Realme Buds T300,Realme,Buds T300,Cream,No,39,5.2,USB-C,IPX8,150,2021,1,4,1307,Sport/Fitness,Mid-Range,Good,Medium,Standard
+Philips TAT1108,Philips,TAT1108,Pearl White,No,25.5,5.3,USB-C,IPX2,140,2021,2,4.7,638,Studio/Pro,Mid-Range,Excellent,Medium,Extended
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Navy,No,19.2,5.3,USB-C,IPX8,120,2023,1,4.5,3034,Bass/Casual,Mid-Range,Excellent,Low,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Red,No,40.8,5.1,USB-C,Not Rated,90,2022,1,4.4,2289,Studio/Pro,Budget,Good,High,Standard
+Anker Soundcore Life P2,Anker Soundcore,Life P2,Cosmic Black,No,20.4,5.3,USB-C,IPX4,130,2021,1,4.2,2436,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Nothing Ear 2,Nothing,Ear 2,Sand,Yes,14.1,4.2,USB-C,Not Rated,210,2021,1,4.7,1374,Gaming,Mid-Range,Excellent,Low,Standard
+CMF Buds Pro 2,CMF,Buds Pro 2,Titanium,No,38.5,5.1,Micro-USB,IP57,190,2023,1,4.3,3563,Studio/Pro,Mid-Range,Good,Medium,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Graphite,No,26.6,5.1,USB-C,IP57,260,2018,2,4.4,668,Gaming,Premium,Good,Medium,Extended
+JBL Wave Buds,JBL,Wave Buds,Indigo,Yes,25.8,5.0,Lightning,IPX8,270,2019,1,4.3,11783,Bass/Casual,Premium,Good,Medium,Standard
+boAt Nirvana Ion,boAt,Nirvana Ion,Cosmic Black,Yes,21.4,Multipoint 5.3,USB-C,IPX2,200,2021,2,4.2,2004,Hi-Fi/Reference,Mid-Range,Good,Medium,Extended
+Nothing Ear 1,Nothing,Ear 1,Graphite,No,47.6,5.0,Micro-USB,IPX7,90,2023,1,4.6,700,Bass/Casual,Budget,Excellent,High,Standard
+boAt Airdopes 131,boAt,Airdopes 131,Gunmetal,Yes,13.4,5.2,USB-C,IPX4,290,2019,1,4.5,2596,Studio/Pro,Premium,Excellent,Low,Standard
+Samsung Galaxy Buds3 Pro,Samsung,Galaxy Buds3 Pro,Midnight Blue,Yes,19.1,5.2,Lightning,IP57,280,2021,2,3.9,27797,Commuting/Travel,Premium,Average,Low,Extended
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Dark Green,Yes,56.1,5.2,Micro-USB,Not Rated,250,2023,1,4.5,4539,Music/Audiophile,Premium,Excellent,High,Standard
+CMF Buds Pro 2,CMF,Buds Pro 2,Navy,Yes,19.9,5.2,Micro-USB,Not Rated,140,2018,1,4.6,2257,Budget/Everyday,Mid-Range,Excellent,Low,Standard
+JBL Tune Flex,JBL,Tune Flex,Matte Black,No,40.9,5.1,USB-C,IPX4,130,2019,1,3.9,3130,Bass/Casual,Mid-Range,Average,High,Standard
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Titanium,Yes,19.6,4.2,Micro-USB,IPX8,260,2018,2,4.7,344,Work/Office,Premium,Excellent,Low,Extended
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Champagne,No,33.3,5.2,Lightning,IP55,100,2023,1,4.4,25181,Studio/Pro,Mid-Range,Good,Medium,Standard
+Apple AirPods 3,Apple,AirPods 3,Space Gray,Yes,10.7,5.0,Micro-USB,IP55,220,2022,2,4.2,1431,Work/Office,Mid-Range,Good,Low,Extended
+Beats Studio Buds,Beats,Studio Buds,Forest Green,Yes,26.7,5.3,USB-C,Not Rated,240,2023,2,4.6,956,Gaming,Mid-Range,Excellent,Medium,Extended
+Noise Buds VS104,Noise,Buds VS104,Black,Yes,19.4,5.1,USB-C,Not Rated,250,2019,2,3.9,3508,Hi-Fi/Reference,Premium,Average,Low,Extended
+Boult X Mustang,Boult,X Mustang,Cream,Yes,28.9,5.3,USB-C,IPX8,190,2020,2,4.6,2112,Music/Audiophile,Mid-Range,Excellent,Medium,Extended
+Apple AirPods Pro 2,Apple,AirPods Pro 2,Rose Gold,No,33.7,4.2,USB-C,IPX2,100,2021,2,4.3,1929,Studio/Pro,Mid-Range,Good,Medium,Extended
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Cosmic Black,Yes,14.2,4.2,USB-C,IP55,130,2019,1,4.1,247,Gaming,Mid-Range,Good,Low,Standard
+OnePlus Buds Pro,OnePlus,Buds Pro,Black,Yes,27.4,5.3,USB-C,IPX7,190,2020,1,4.5,6640,Gaming,Mid-Range,Excellent,Medium,Standard
+Nothing Ear (a),Nothing,Ear (a),Gunmetal,No,34.8,5.3,USB-C,IP57,150,2019,1,4.2,1116,Bass/Casual,Mid-Range,Good,Medium,Standard
+Beats Studio Buds,Beats,Studio Buds,Red,Yes,27.9,5.3,Micro-USB,IPX8,250,2024,1,4.5,132,Music/Audiophile,Premium,Excellent,Medium,Standard
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Brown,No,45,5.2,USB-C,IP54,260,2022,1,4.5,351,Gaming,Premium,Excellent,High,Standard
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,White,No,35.6,4.2,Micro-USB,IPX4,160,2024,1,4.3,1355,Music/Audiophile,Mid-Range,Good,Medium,Standard
+Skullcandy Dime 3,Skullcandy,Dime 3,Sand,No,14.6,5.3,USB-C,IPX8,110,2019,2,4.2,6961,Work/Office,Mid-Range,Good,Low,Extended
+Logitech G Fits,Logitech,G Fits,Pearl White,No,40.2,5.3,Lightning,Not Rated,140,2019,1,4.6,3186,Music/Audiophile,Mid-Range,Excellent,High,Standard
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Forest Green,Yes,31.9,5.0,Micro-USB,IP57,210,2019,1,4.7,16119,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Standard
+Redmi Buds 6,Redmi,Buds 6,Dark Green,Yes,17.6,5.3,USB-C,IPX8,190,2024,2,4.6,2375,Budget/Everyday,Mid-Range,Excellent,Low,Extended
+Beats Studio Buds,Beats,Studio Buds,Pearl White,No,24.9,5.1,Lightning,IPX2,110,2022,1,3.9,1875,Budget/Everyday,Mid-Range,Average,Medium,Standard
+Redmi Buds 5,Redmi,Buds 5,Champagne,Yes,45.9,5.1,Micro-USB,IPX8,230,2019,1,4.6,11492,Bass/Casual,Mid-Range,Excellent,High,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Gunmetal,Yes,28.9,Multipoint 5.3,USB-C,IP54,230,2021,2,4.7,482,Gaming,Mid-Range,Excellent,Medium,Extended
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Dark Green,Yes,20.6,5.2,USB-C,Not Rated,140,2018,1,4.3,2412,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Redmi Buds 6,Redmi,Buds 6,Matte Black,Yes,31.5,5.2,Lightning,IPX7,170,2019,2,4.4,592,Gaming,Mid-Range,Good,Medium,Extended
+Realme Buds Air 6,Realme,Buds Air 6,Graphite,Yes,31.5,5.0,Micro-USB,IPX4,220,2022,2,4.7,106,Music/Casual,Mid-Range,Excellent,Medium,Extended
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Cream,Yes,30.5,5.0,Lightning,IPX4,160,2020,1,4.5,749,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+Apple AirPods 3,Apple,AirPods 3,Cosmic Black,Yes,31.9,5.3,USB-C,IPX4,200,2018,2,4.6,7064,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Extended
+Boult Z20,Boult,Z20,Brown,No,20.5,5.0,Lightning,IP55,200,2021,1,4.5,2715,Bass/Casual,Mid-Range,Excellent,Medium,Standard
+Beats Studio Buds,Beats,Studio Buds,Gunmetal,Yes,28.5,5.2,USB-C,IPX7,110,2018,1,4.2,2711,Music/Audiophile,Mid-Range,Good,Medium,Standard
+Noise Air Buds Max,Noise,Air Buds Max,Midnight Blue,No,38.5,5.2,USB-C,IP55,160,2022,1,4.5,9044,Budget/Everyday,Mid-Range,Excellent,Medium,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Graphite,Yes,19.3,5.3,Micro-USB,IPX7,340,2021,1,4.4,4812,Music/Audiophile,Premium,Good,Low,Standard
+Noise Air Buds Max,Noise,Air Buds Max,Matte Black,Yes,26.6,5.3,USB-C,Not Rated,270,2023,2,4.3,2441,Bass/Casual,Premium,Good,Medium,Extended
+Nothing Ear 1,Nothing,Ear 1,Pearl White,No,22.4,5.3,USB-C,IPX4,140,2024,2,4.4,951,Work/Office,Mid-Range,Good,Medium,Extended
+Boult Z40 Pro,Boult,Z40 Pro,Dark Green,No,24.5,5.1,USB-C,IPX8,170,2023,1,4.8,2898,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Space Gray,Yes,46.8,5.3,USB-C,IPX8,160,2022,1,4.6,254,Music/Audiophile,Mid-Range,Excellent,High,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Matte Black,Yes,8.6,5.0,Micro-USB,IPX8,180,2022,2,4,4804,Sport/Fitness,Mid-Range,Good,Low,Extended
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Cosmic Black,Yes,55.9,Multipoint 5.3,USB-C,IP54,130,2018,2,4.1,2525,Work/Office,Mid-Range,Good,High,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Red,Yes,40,5.0,USB-C,IP55,150,2019,2,4,3724,Commuting/Travel,Mid-Range,Good,High,Extended
+Edifier X5 Pro,Edifier,X5 Pro,Matte Black,Yes,14.3,Multipoint 5.3,Lightning,IP55,150,2023,2,3.8,85,Gaming,Mid-Range,Average,Low,Extended
+Nothing Ear,Nothing,Ear,Midnight Blue,Yes,46.1,5.3,Lightning,IP57,240,2020,1,4.6,13280,Hi-Fi/Reference,Mid-Range,Excellent,High,Standard
+Sony LinkBuds,Sony,LinkBuds,Matte Black,No,42.5,Multipoint 5.3,USB-C,IPX7,100,2021,2,4.5,615,Studio/Pro,Mid-Range,Excellent,High,Extended
+Boult Z40,Boult,Z40,Pearl White,No,17.1,5.2,USB-C,IP55,180,2023,1,4.1,687,Bass/Casual,Mid-Range,Good,Low,Standard
+pTron Bassbuds Tango,pTron,Bassbuds Tango,Graphite,No,26.5,4.2,USB-C,IP55,130,2023,1,4.2,5578,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Huawei FreeBuds 5i,Huawei,FreeBuds 5i,Cream,Yes,44.7,5.3,USB-C,Not Rated,240,2021,2,3.8,340,Budget/Everyday,Mid-Range,Average,High,Extended
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Champagne,Yes,43.5,5.3,USB-C,IPX8,250,2019,2,4.5,1657,Gaming,Premium,Excellent,High,Extended
+Redmi Buds 5,Redmi,Buds 5,Indigo,Yes,42.3,Multipoint 5.3,USB-C,IPX7,130,2023,1,4.5,3340,Gaming,Mid-Range,Excellent,High,Standard
+Noise Combat X,Noise,Combat X,Brown,No,27.3,5.2,USB-C,IP57,180,2018,1,4.7,1712,Work/Office,Mid-Range,Excellent,Medium,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Indigo,Yes,39.3,5.2,USB-C,Not Rated,290,2024,1,3.6,692,Music/Casual,Premium,Average,Medium,Standard
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Red,No,27,5.3,Micro-USB,Not Rated,140,2020,2,4.9,6490,Gaming,Mid-Range,Excellent,Medium,Extended
+Jabra Elite 5,Jabra,Elite 5,Red,No,21.9,5.2,Lightning,IPX2,170,2018,2,4.3,1516,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Logitech G Fits,Logitech,G Fits,Cosmic Black,Yes,48.6,5.2,USB-C,Not Rated,230,2018,1,4.5,7704,Sport/Fitness,Mid-Range,Excellent,High,Standard
+JBL Vibe Beam,JBL,Vibe Beam,Midnight Blue,Yes,11,5.3,Lightning,IPX8,210,2022,1,4.3,6720,Studio/Pro,Mid-Range,Good,Low,Standard
+Sennheiser CX Plus,Sennheiser,CX Plus,Black,Yes,28.2,5.3,Micro-USB,Not Rated,330,2020,1,4.1,405,Work/Office,Premium,Good,Medium,Standard
+Realme Buds T300,Realme,Buds T300,Pearl White,No,29.4,5.2,Micro-USB,IPX4,160,2018,1,3.6,2639,Music/Casual,Mid-Range,Average,Medium,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Gunmetal,Yes,35.1,5.3,USB-C,IP54,250,2018,2,4,457,Studio/Pro,Premium,Good,Medium,Extended
+Edifier X3,Edifier,X3,Dark Green,No,12.1,5.2,USB-C,IPX2,210,2023,2,3.8,572,Bass/Casual,Mid-Range,Average,Low,Extended
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Dark Green,Yes,22,5.0,USB-C,Not Rated,130,2020,1,4.1,1278,Bass/Casual,Mid-Range,Good,Medium,Standard
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Pearl White,Yes,40,5.3,USB-C,IP54,190,2022,1,3.9,2230,Sport/Fitness,Mid-Range,Average,High,Standard
+Oppo Enco X,Oppo,Enco X,Rose Gold,Yes,28.7,5.2,USB-C,IP54,210,2020,2,4.7,761,Work/Office,Mid-Range,Excellent,Medium,Extended
+OnePlus Nord Buds 2R,OnePlus,Nord Buds 2R,Matte Black,No,39.2,5.1,USB-C,IP54,100,2019,2,4.4,2216,Gaming,Mid-Range,Good,Medium,Extended
+Sony LinkBuds S,Sony,LinkBuds S,Gunmetal,No,20.4,5.0,USB-C,IP54,210,2020,2,4.5,615,Music/Casual,Mid-Range,Excellent,Medium,Extended
+boAt Nirvana Zenith,boAt,Nirvana Zenith,Forest Green,No,31.4,5.2,USB-C,Not Rated,80,2018,1,3.9,4081,Hi-Fi/Reference,Budget,Average,Medium,Standard
+Jabra Elite 8 Active,Jabra,Elite 8 Active,Carbon,No,19.3,5.0,USB-C,IPX8,130,2024,2,4.4,2400,Bass/Casual,Mid-Range,Good,Low,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Champagne,No,10.9,Multipoint 5.3,USB-C,IPX2,210,2021,1,3.8,320,Studio/Pro,Mid-Range,Average,Low,Standard
+Philips TAT1108,Philips,TAT1108,Indigo,No,27.1,Multipoint 5.3,Lightning,IP57,160,2018,2,4.2,7867,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Apple AirPods Pro,Apple,AirPods Pro,Graphite,Yes,22.9,5.2,Lightning,IPX2,130,2022,1,4.6,1060,Budget/Everyday,Mid-Range,Excellent,Medium,Standard
+Sony WF-1000XM5,Sony,WF-1000XM5,White,No,33.8,5.2,Micro-USB,IPX4,120,2018,1,4.8,3579,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Standard
+Sony LinkBuds S,Sony,LinkBuds S,Sand,Yes,31.2,4.2,USB-C,IP57,240,2018,2,4.3,3042,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Redmi Buds 4,Redmi,Buds 4,Space Gray,No,32.2,5.1,Micro-USB,IP57,150,2023,1,4.1,3878,Budget/Everyday,Mid-Range,Good,Medium,Standard
+pTron Bassbuds Jade,pTron,Bassbuds Jade,Brown,Yes,53.9,5.1,Lightning,IPX2,310,2023,2,4,2417,Work/Office,Premium,Good,High,Extended
+Sennheiser CX Plus,Sennheiser,CX Plus,Gunmetal,Yes,35.5,5.0,Lightning,IP57,240,2021,1,4,2311,Sport/Fitness,Mid-Range,Good,Medium,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Dark Green,No,46.7,5.0,USB-C,Not Rated,130,2018,2,4.6,18548,Studio/Pro,Mid-Range,Excellent,High,Extended
+Noise Buds VS402,Noise,Buds VS402,Black,No,24.2,5.0,USB-C,IP54,90,2021,1,4.4,888,Music/Casual,Budget,Good,Medium,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Forest Green,Yes,14.4,5.0,Micro-USB,IPX4,270,2018,2,4.4,26849,Hi-Fi/Reference,Premium,Good,Low,Extended
+Shokz OpenFit,Shokz,OpenFit,Forest Green,No,39.8,5.0,USB-C,Not Rated,110,2018,1,3.9,5743,Budget/Everyday,Mid-Range,Average,Medium,Standard
+Sony LinkBuds,Sony,LinkBuds,Indigo,No,21.9,5.0,USB-C,IPX7,120,2024,1,4.5,1730,Gaming,Mid-Range,Excellent,Medium,Standard
+Skullcandy Dime 3,Skullcandy,Dime 3,Gunmetal,No,20,5.3,Micro-USB,IPX4,120,2018,1,4.5,1666,Sport/Fitness,Mid-Range,Excellent,Medium,Standard
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Silver,Yes,20.7,Multipoint 5.3,USB-C,IP57,260,2024,1,4.4,6996,Sport/Fitness,Premium,Good,Medium,Standard
+Sennheiser CX True Wireless,Sennheiser,CX True Wireless,Matte Black,Yes,34.4,5.3,USB-C,IPX4,270,2018,1,4.4,1155,Work/Office,Premium,Good,Medium,Standard
+CMF Buds,CMF,Buds,Sand,Yes,23.4,4.2,USB-C,Not Rated,300,2024,2,4.8,994,Music/Casual,Premium,Excellent,Medium,Extended
+Realme Buds T310,Realme,Buds T310,Cream,Yes,53.4,5.1,USB-C,Not Rated,170,2020,2,3.6,746,Sport/Fitness,Mid-Range,Average,High,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Space Gray,No,28.5,4.2,USB-C,Not Rated,110,2022,2,4.2,1675,Bass/Casual,Mid-Range,Good,Medium,Extended
+boAt Nirvana Ion,boAt,Nirvana Ion,Indigo,Yes,27.4,5.2,Micro-USB,IPX4,170,2024,1,4.4,1346,Studio/Pro,Mid-Range,Good,Medium,Standard
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,White,Yes,15.2,5.0,USB-C,IPX8,350,2018,1,4.2,44796,Music/Casual,Premium,Good,Low,Standard
+Boult Z40,Boult,Z40,Gunmetal,No,22.5,5.0,USB-C,IPX4,170,2020,1,4.2,2870,Music/Audiophile,Mid-Range,Good,Medium,Standard
+Philips TAT3508,Philips,TAT3508,Graphite,Yes,53.7,5.1,USB-C,Not Rated,210,2023,1,4.4,244,Work/Office,Mid-Range,Good,High,Standard
+Noise Air Buds Lite,Noise,Air Buds Lite,White,No,39.3,5.1,USB-C,IPX4,170,2021,2,4.2,507,Hi-Fi/Reference,Mid-Range,Good,Medium,Extended
+boAt Airdopes 311 Pro,boAt,Airdopes 311 Pro,Cosmic Black,Yes,13.8,5.2,USB-C,IP54,170,2022,1,4.4,682,Studio/Pro,Mid-Range,Good,Low,Standard
+Redmi Buds 5,Redmi,Buds 5,Silver,Yes,19.5,5.3,Lightning,IPX4,230,2022,2,4.4,4232,Studio/Pro,Mid-Range,Good,Low,Extended
+Noise Air Buds Pro,Noise,Air Buds Pro,Space Gray,Yes,19.5,4.2,Lightning,Not Rated,240,2020,1,4,3946,Hi-Fi/Reference,Mid-Range,Good,Low,Standard
+CMF Buds,CMF,Buds,Indigo,Yes,17.5,5.3,USB-C,IPX7,230,2019,2,3.9,6478,Work/Office,Mid-Range,Average,Low,Extended
+Beats Fit Pro,Beats,Fit Pro,Red,No,29.6,5.0,USB-C,IPX2,90,2019,1,4.5,12950,Hi-Fi/Reference,Budget,Excellent,Medium,Standard
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Brown,No,23.4,5.3,USB-C,IP55,140,2019,2,3.8,3331,Hi-Fi/Reference,Mid-Range,Average,Medium,Extended
+Redmi Buds 5,Redmi,Buds 5,Cream,No,26.5,5.1,Micro-USB,IPX4,140,2024,1,4.8,1132,Studio/Pro,Mid-Range,Excellent,Medium,Standard
+Boult Z20,Boult,Z20,Space Gray,No,21.9,5.0,Micro-USB,IPX2,200,2021,2,4.4,551,Sport/Fitness,Mid-Range,Good,Medium,Extended
+JBL Wave Buds,JBL,Wave Buds,Pearl White,Yes,27.2,5.0,USB-C,IPX8,270,2021,1,3.6,3958,Sport/Fitness,Premium,Average,Medium,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Dark Green,No,22,5.3,USB-C,Not Rated,160,2023,2,4.3,4337,Gaming,Mid-Range,Good,Medium,Extended
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Rose Gold,Yes,24.6,5.0,Lightning,IP54,260,2023,2,4.6,631,Hi-Fi/Reference,Premium,Excellent,Medium,Extended
+Sennheiser CX Plus,Sennheiser,CX Plus,Black,Yes,43.2,5.0,USB-C,IP57,200,2021,2,4.9,4661,Bass/Casual,Mid-Range,Excellent,High,Extended
+Anker Soundcore Liberty 4,Anker Soundcore,Liberty 4,Forest Green,Yes,46.6,5.2,USB-C,IPX8,250,2021,1,4.5,2232,Music/Audiophile,Premium,Excellent,High,Standard
+Realme Buds T300,Realme,Buds T300,Black,Yes,55.6,5.3,USB-C,IPX4,200,2021,2,3.7,1314,Studio/Pro,Mid-Range,Average,High,Extended
+Samsung Galaxy Buds2 Pro,Samsung,Galaxy Buds2 Pro,Gunmetal,Yes,13.8,5.0,USB-C,IP55,240,2021,1,4.2,650,Sport/Fitness,Mid-Range,Good,Low,Standard
+CMF Buds Pro 2,CMF,Buds Pro 2,Champagne,Yes,25.7,Multipoint 5.3,USB-C,IPX4,180,2020,2,4.2,507,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Logitech G Fits,Logitech,G Fits,Cosmic Black,No,14.1,5.0,USB-C,Not Rated,150,2021,1,4.3,2198,Hi-Fi/Reference,Mid-Range,Good,Low,Standard
+Logitech G Fits,Logitech,G Fits,Silver,Yes,20.6,5.3,USB-C,IPX4,160,2023,2,4.2,450,Gaming,Mid-Range,Good,Medium,Extended
+Nothing Ear 2,Nothing,Ear 2,Rose Gold,Yes,52.2,5.3,USB-C,IPX2,270,2019,2,4.5,1335,Sport/Fitness,Premium,Excellent,High,Extended
+Noise Buds VS402,Noise,Buds VS402,Forest Green,No,52.8,5.3,Micro-USB,Not Rated,100,2024,1,4.3,112,Studio/Pro,Mid-Range,Good,High,Standard
+Noise Combat Z,Noise,Combat Z,Matte Black,No,55.8,5.3,Lightning,Not Rated,110,2021,1,4.6,2353,Sport/Fitness,Mid-Range,Excellent,High,Standard
+Oppo Enco X2,Oppo,Enco X2,Gunmetal,Yes,24.8,5.2,USB-C,IP54,360,2020,2,4.3,8124,Commuting/Travel,Premium,Good,Medium,Extended
+JBL Wave Beam,JBL,Wave Beam,Brown,No,37.2,Multipoint 5.3,USB-C,IP54,180,2021,1,3.6,1436,Work/Office,Mid-Range,Average,Medium,Standard
+pTron Bassbuds Duo,pTron,Bassbuds Duo,White,Yes,17.1,5.0,USB-C,Not Rated,120,2023,2,4.4,1007,Sport/Fitness,Mid-Range,Good,Low,Extended
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Titanium,Yes,48.7,5.2,USB-C,Not Rated,310,2024,1,4.6,3631,Music/Casual,Premium,Excellent,High,Standard
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Pearl White,Yes,21.8,5.3,Lightning,IPX4,150,2022,1,4.1,2031,Bass/Casual,Mid-Range,Good,Medium,Standard
+Redmi Buds 4,Redmi,Buds 4,Carbon,No,32.2,Multipoint 5.3,Micro-USB,IPX4,170,2021,2,4,978,Work/Office,Mid-Range,Good,Medium,Extended
+pTron Bassbuds Jade,pTron,Bassbuds Jade,Cosmic Black,Yes,29.8,5.0,USB-C,IP54,270,2021,1,4,2520,Commuting/Travel,Premium,Good,Medium,Standard
+Nothing Ear,Nothing,Ear,Graphite,Yes,39.2,Multipoint 5.3,Lightning,IPX2,340,2023,2,4.4,1142,Music/Audiophile,Premium,Good,Medium,Extended
+Oppo Enco Air 2,Oppo,Enco Air 2,Brown,Yes,26.3,Multipoint 5.3,USB-C,Not Rated,200,2021,1,4.7,468,Studio/Pro,Mid-Range,Excellent,Medium,Standard
+OnePlus Buds Z2,OnePlus,Buds Z2,Forest Green,No,32.6,5.0,USB-C,Not Rated,100,2019,1,4.6,2265,Bass/Casual,Mid-Range,Excellent,Medium,Standard
+Shokz OpenFit,Shokz,OpenFit,Space Gray,No,22,4.2,Micro-USB,IP54,120,2024,1,4.2,1591,Gaming,Mid-Range,Good,Medium,Standard
+Noise Buds VS104,Noise,Buds VS104,Cream,Yes,21.7,5.2,USB-C,IP54,220,2018,1,4.9,10441,Studio/Pro,Mid-Range,Excellent,Medium,Standard
+Nothing Ear (a),Nothing,Ear (a),Forest Green,Yes,26.8,5.2,Micro-USB,Not Rated,290,2019,2,4.6,977,Commuting/Travel,Premium,Excellent,Medium,Extended
+JBL Live Beam 3,JBL,Live Beam 3,Black,Yes,56.3,5.2,USB-C,Not Rated,200,2022,1,4.3,5544,Commuting/Travel,Mid-Range,Good,High,Standard
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,White,Yes,29.5,5.2,USB-C,IPX7,210,2023,2,4.2,2142,Work/Office,Mid-Range,Good,Medium,Extended
+Beats Fit Pro,Beats,Fit Pro,Dark Green,Yes,31.7,Multipoint 5.3,Lightning,Not Rated,230,2022,2,5,22758,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Indigo,No,40,Multipoint 5.3,USB-C,IP57,150,2018,2,4.6,8389,Studio/Pro,Mid-Range,Excellent,High,Extended
+Noise Combat X,Noise,Combat X,Cosmic Black,No,49,5.2,Micro-USB,Not Rated,130,2019,1,4,257,Commuting/Travel,Mid-Range,Good,High,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Cosmic Black,Yes,21,5.2,USB-C,IP54,430,2022,1,4.6,580,Bass/Casual,Premium,Excellent,Medium,Standard
+Redmi Buds 5 Pro,Redmi,Buds 5 Pro,Rose Gold,No,40.2,5.0,USB-C,Not Rated,140,2018,2,3.7,2081,Budget/Everyday,Mid-Range,Average,High,Extended
+Redmi Buds 4,Redmi,Buds 4,Champagne,No,40.9,5.2,USB-C,IPX4,270,2022,1,4.6,4101,Commuting/Travel,Premium,Excellent,High,Standard
+Sony LinkBuds,Sony,LinkBuds,Silver,Yes,42.3,5.2,USB-C,Not Rated,140,2022,1,4.4,5353,Music/Casual,Mid-Range,Good,High,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Rose Gold,Yes,57.3,5.0,USB-C,IPX7,180,2023,1,4.4,8705,Studio/Pro,Mid-Range,Good,High,Standard
+Jabra Elite 5,Jabra,Elite 5,Carbon,No,19.2,5.3,USB-C,Not Rated,220,2021,1,4.2,4784,Budget/Everyday,Mid-Range,Good,Low,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Dark Green,No,17.5,5.3,USB-C,Not Rated,230,2020,1,4.4,788,Budget/Everyday,Mid-Range,Good,Low,Standard
+Redmi Buds 5,Redmi,Buds 5,Sand,Yes,37.5,5.2,USB-C,IPX7,160,2024,2,4.6,4863,Sport/Fitness,Mid-Range,Excellent,Medium,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Space Gray,No,37,5.1,USB-C,Not Rated,240,2019,1,3.9,255,Work/Office,Mid-Range,Average,Medium,Standard
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Space Gray,Yes,48,5.2,USB-C,IPX8,200,2019,1,3.7,577,Studio/Pro,Mid-Range,Average,High,Standard
+Noise Buds VS102,Noise,Buds VS102,Pearl White,No,24.6,5.3,Micro-USB,Not Rated,160,2020,1,4.5,2441,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+boAt Airdopes 141,boAt,Airdopes 141,Black,Yes,17.6,4.2,USB-C,Not Rated,190,2019,2,4,2811,Music/Casual,Mid-Range,Good,Low,Extended
+Jabra Elite 5,Jabra,Elite 5,Rose Gold,No,49.8,5.0,USB-C,IPX4,180,2020,2,4.4,4951,Work/Office,Mid-Range,Good,High,Extended
+Jabra Elite 8 Active,Jabra,Elite 8 Active,Matte Black,No,27.6,4.2,Lightning,IPX8,110,2020,2,3.9,2147,Sport/Fitness,Mid-Range,Average,Medium,Extended
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Red,No,30.9,5.0,Micro-USB,IP54,160,2021,1,4.2,2551,Commuting/Travel,Mid-Range,Good,Medium,Standard
+CMF Buds,CMF,Buds,Cosmic Black,Yes,11,5.3,USB-C,IPX4,280,2024,1,4.3,1374,Work/Office,Premium,Good,Low,Standard
+Philips TAT3508,Philips,TAT3508,Brown,Yes,24.7,4.2,USB-C,IPX4,340,2020,2,4,1034,Music/Audiophile,Premium,Good,Medium,Extended
+Logitech G Fits,Logitech,G Fits,Cosmic Black,No,17.5,5.3,Micro-USB,IPX2,100,2018,2,4.4,788,Studio/Pro,Mid-Range,Good,Low,Extended
+Boult Curve Max,Boult,Curve Max,White,Yes,40.6,5.0,USB-C,IPX2,400,2019,1,4.1,6074,Work/Office,Premium,Good,High,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Silver,Yes,26.2,5.2,USB-C,IP57,190,2020,1,4.6,501,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+boAt Airdopes 280 ANC,boAt,Airdopes 280 ANC,Gunmetal,Yes,34.3,Multipoint 5.3,USB-C,IPX8,350,2022,2,4.9,2333,Work/Office,Premium,Excellent,Medium,Extended
+Philips TAT2206,Philips,TAT2206,Indigo,Yes,10.5,Multipoint 5.3,USB-C,IP54,210,2020,1,4.5,1538,Sport/Fitness,Mid-Range,Excellent,Low,Standard
+Nothing Ear 2,Nothing,Ear 2,Silver,No,31.1,5.0,USB-C,IPX4,150,2022,1,4.3,6563,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Skullcandy Rail,Skullcandy,Rail,Carbon,No,18.2,5.0,Micro-USB,IPX7,120,2020,2,3.8,67,Bass/Casual,Mid-Range,Average,Low,Extended
+Beats Fit Pro,Beats,Fit Pro,Forest Green,Yes,28.8,5.3,USB-C,Not Rated,160,2022,1,3.8,898,Music/Audiophile,Mid-Range,Average,Medium,Standard
+boAt Airdopes 141,boAt,Airdopes 141,Carbon,No,13.4,5.2,Micro-USB,Not Rated,90,2019,2,4.6,2756,Gaming,Budget,Excellent,Low,Extended
+Samsung Galaxy Buds2 Pro,Samsung,Galaxy Buds2 Pro,Cosmic Black,No,21.8,5.3,Lightning,IP54,90,2021,2,3.9,6155,Budget/Everyday,Budget,Average,Medium,Extended
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Titanium,Yes,43.8,5.0,Lightning,IPX7,220,2023,1,3.9,1034,Work/Office,Mid-Range,Average,High,Standard
+Apple AirPods 4,Apple,AirPods 4,Midnight Blue,No,27.5,5.2,USB-C,IPX7,150,2018,2,4.2,8925,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Redmi Buds 5 Pro,Redmi,Buds 5 Pro,Carbon,No,39.8,5.1,USB-C,IP54,110,2020,2,4.3,722,Music/Casual,Mid-Range,Good,Medium,Extended
+Philips TAT1108,Philips,TAT1108,Cream,No,29,5.3,Micro-USB,IPX4,180,2019,1,4.8,750,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+boAt Airdopes 170,boAt,Airdopes 170,Silver,Yes,22.4,5.1,USB-C,IPX4,380,2022,1,4.1,2265,Music/Casual,Premium,Good,Medium,Standard
+Sony WF-XB700,Sony,WF-XB700,Brown,Yes,28.2,5.0,USB-C,IPX2,240,2018,1,4.4,860,Budget/Everyday,Mid-Range,Good,Medium,Standard
+pTron Bassbuds Tango,pTron,Bassbuds Tango,Silver,No,21.9,5.0,USB-C,IPX7,70,2021,2,4.5,21151,Music/Audiophile,Budget,Excellent,Medium,Extended
+Huawei FreeBuds 5i,Huawei,FreeBuds 5i,Rose Gold,No,22.9,Multipoint 5.3,USB-C,IPX8,150,2018,1,3.8,1224,Bass/Casual,Mid-Range,Average,Medium,Standard
+Oppo Enco Air 3,Oppo,Enco Air 3,Indigo,Yes,18.7,5.0,USB-C,Not Rated,220,2022,2,4.7,1779,Music/Casual,Mid-Range,Excellent,Low,Extended
+Beats Fit Pro,Beats,Fit Pro,Pearl White,Yes,23.5,5.0,Lightning,Not Rated,330,2020,1,4.3,2410,Work/Office,Premium,Good,Medium,Standard
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Indigo,No,22.5,5.2,Lightning,Not Rated,110,2018,1,4.8,371,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Boult Curve Max,Boult,Curve Max,Indigo,Yes,28.7,5.2,Lightning,IPX4,190,2024,1,3.6,360,Music/Audiophile,Mid-Range,Average,Medium,Standard
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Navy,Yes,19.8,5.0,Micro-USB,IP55,230,2022,1,4.2,4058,Hi-Fi/Reference,Mid-Range,Good,Low,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Pearl White,No,42.8,4.2,USB-C,Not Rated,170,2024,2,4.3,3688,Gaming,Mid-Range,Good,High,Extended
+Noise Buds VS201,Noise,Buds VS201,Pearl White,No,42.8,5.3,USB-C,IP55,220,2022,1,4.2,3898,Budget/Everyday,Mid-Range,Good,High,Standard
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Brown,No,40.4,5.3,USB-C,IPX4,140,2020,2,4.5,481,Gaming,Mid-Range,Excellent,High,Extended
+Philips TAT3508,Philips,TAT3508,Titanium,Yes,36.4,5.3,Lightning,IPX4,290,2024,2,4.4,445,Music/Audiophile,Premium,Good,Medium,Extended
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,White,No,30.4,5.3,USB-C,IPX4,70,2021,1,3.9,1358,Work/Office,Budget,Average,Medium,Standard
+Noise Combat Z,Noise,Combat Z,Cosmic Black,No,20.5,5.2,Micro-USB,IPX4,80,2024,1,4.5,3207,Gaming,Budget,Excellent,Medium,Standard
+boAt Airdopes 280 ANC,boAt,Airdopes 280 ANC,Dark Green,Yes,22.5,5.0,USB-C,Not Rated,130,2021,1,4.1,1760,Music/Audiophile,Mid-Range,Good,Medium,Standard
+Sony WF-XB700,Sony,WF-XB700,Silver,No,24.5,5.0,USB-C,Not Rated,160,2021,2,3.8,1786,Commuting/Travel,Mid-Range,Average,Medium,Extended
+boAt Airdopes Flex,boAt,Airdopes Flex,Navy,No,7.9,5.0,Lightning,Not Rated,270,2018,2,4,22212,Work/Office,Premium,Good,Low,Extended
+JBL Tour Pro 2,JBL,Tour Pro 2,Sand,No,44.8,5.3,USB-C,Not Rated,130,2019,1,4.5,681,Hi-Fi/Reference,Mid-Range,Excellent,High,Standard
+Realme Buds Air 6,Realme,Buds Air 6,Indigo,No,14.6,5.1,USB-C,IP55,170,2024,2,3.9,1440,Commuting/Travel,Mid-Range,Average,Low,Extended
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Rose Gold,No,8.8,5.3,USB-C,Not Rated,240,2021,1,3.8,3733,Budget/Everyday,Mid-Range,Average,Low,Standard
+Sony WF-C700N,Sony,WF-C700N,Graphite,Yes,19.3,Multipoint 5.3,USB-C,IP54,140,2024,1,4.4,803,Gaming,Mid-Range,Good,Low,Standard
+Skullcandy Rail,Skullcandy,Rail,Brown,Yes,36.4,5.0,USB-C,IPX7,170,2021,1,4.4,2242,Work/Office,Mid-Range,Good,Medium,Standard
+Oppo Enco Buds2,Oppo,Enco Buds2,Pearl White,No,25.6,5.3,USB-C,Not Rated,140,2023,2,4.6,1295,Gaming,Mid-Range,Excellent,Medium,Extended
+boAt Airdopes 161,boAt,Airdopes 161,Black,Yes,22.6,5.2,USB-C,IPX2,350,2023,1,4,598,Sport/Fitness,Premium,Good,Medium,Standard
+Beats Studio Buds Plus,Beats,Studio Buds Plus,White,No,31.5,5.0,Micro-USB,IP55,110,2018,2,4,6520,Budget/Everyday,Mid-Range,Good,Medium,Extended
+JBL Endurance Peak 3,JBL,Endurance Peak 3,Midnight Blue,Yes,35.1,5.3,USB-C,IP55,170,2019,2,4.7,310,Sport/Fitness,Mid-Range,Excellent,Medium,Extended
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Carbon,Yes,49.1,5.3,Micro-USB,IPX7,230,2022,1,4.3,7537,Studio/Pro,Mid-Range,Good,High,Standard
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Forest Green,No,40.1,5.1,USB-C,IP54,110,2019,2,4.8,1418,Hi-Fi/Reference,Mid-Range,Excellent,High,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Dark Green,No,36.1,5.1,USB-C,IPX7,120,2021,2,4.8,2485,Sport/Fitness,Mid-Range,Excellent,Medium,Extended
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Gunmetal,No,51.8,5.3,USB-C,IPX8,150,2023,1,4.8,383,Commuting/Travel,Mid-Range,Excellent,High,Standard
+Samsung Galaxy Buds FE,Samsung,Galaxy Buds FE,Navy,Yes,22.4,Multipoint 5.3,Micro-USB,IPX4,200,2020,1,4.6,421,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+OnePlus Buds Z2,OnePlus,Buds Z2,Matte Black,No,15.1,5.3,Micro-USB,IPX2,170,2022,1,4.4,32,Budget/Everyday,Mid-Range,Good,Low,Standard
+Philips TAT3508,Philips,TAT3508,White,No,34.6,5.0,Micro-USB,IP54,180,2021,1,4.1,3353,Bass/Casual,Mid-Range,Good,Medium,Standard
+Oppo Enco Air 3,Oppo,Enco Air 3,Champagne,No,17.5,5.2,USB-C,Not Rated,110,2018,2,4.3,178,Commuting/Travel,Mid-Range,Good,Low,Extended
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Black,No,33.5,5.3,USB-C,IP57,160,2023,2,4.6,571,Music/Audiophile,Mid-Range,Excellent,Medium,Extended
+JBL Tune Flex,JBL,Tune Flex,Pearl White,No,38.6,5.3,USB-C,IP55,170,2022,1,4.1,988,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Philips TAT3508,Philips,TAT3508,Gunmetal,No,31.5,5.2,Micro-USB,IPX4,70,2024,1,4.1,6191,Music/Casual,Budget,Good,Medium,Standard
+pTron Bassbuds Jade,pTron,Bassbuds Jade,Titanium,No,29.1,5.0,USB-C,IP55,160,2024,2,4.6,1145,Music/Casual,Mid-Range,Excellent,Medium,Extended
+Sennheiser CX True Wireless,Sennheiser,CX True Wireless,Cream,Yes,19.3,Multipoint 5.3,Micro-USB,Not Rated,190,2018,2,4.4,8128,Hi-Fi/Reference,Mid-Range,Good,Low,Extended
+Shokz OpenDots One,Shokz,OpenDots One,Forest Green,No,34.6,5.2,USB-C,IPX7,180,2022,2,3.9,2015,Budget/Everyday,Mid-Range,Average,Medium,Extended
+CMF Buds Pro,CMF,Buds Pro,Black,No,26.9,5.0,USB-C,IP54,80,2022,1,4.9,504,Music/Audiophile,Budget,Excellent,Medium,Standard
+Skullcandy Dime 3,Skullcandy,Dime 3,Sand,No,39.6,5.2,USB-C,IPX7,120,2019,1,4.4,760,Sport/Fitness,Mid-Range,Good,Medium,Standard
+JBL Wave Beam,JBL,Wave Beam,Cream,Yes,30.6,5.3,USB-C,IPX8,230,2024,2,4.2,2226,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Jabra Elite 5,Jabra,Elite 5,Graphite,No,16.4,5.0,USB-C,IPX4,90,2024,1,4.4,1524,Bass/Casual,Budget,Good,Low,Standard
+Sony WF-XB700,Sony,WF-XB700,Silver,No,57.2,5.0,USB-C,IPX4,120,2019,2,4.2,243,Work/Office,Mid-Range,Good,High,Extended
+Samsung Galaxy Buds FE,Samsung,Galaxy Buds FE,Midnight Blue,Yes,15.2,5.3,USB-C,IPX7,280,2019,1,4.2,2442,Music/Audiophile,Premium,Good,Low,Standard
+OnePlus Buds Pro 2,OnePlus,Buds Pro 2,Pearl White,No,32.2,5.3,Micro-USB,IP55,290,2021,1,4.8,6045,Hi-Fi/Reference,Premium,Excellent,Medium,Standard
+boAt Airdopes 280 ANC,boAt,Airdopes 280 ANC,Space Gray,Yes,55.6,5.2,USB-C,Not Rated,210,2019,1,4.9,568,Music/Audiophile,Mid-Range,Excellent,High,Standard
+Nothing Ear (a),Nothing,Ear (a),Brown,Yes,52.3,5.3,USB-C,Not Rated,300,2020,1,4,5409,Work/Office,Premium,Good,High,Standard
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Dark Green,Yes,27.9,4.2,Micro-USB,IP57,190,2024,1,4.5,9533,Gaming,Mid-Range,Excellent,Medium,Standard
+Logitech G Fits,Logitech,G Fits,Pearl White,No,16.3,5.2,USB-C,IPX8,180,2021,2,4.3,2583,Music/Casual,Mid-Range,Good,Low,Extended
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Gunmetal,No,36.3,5.2,USB-C,IPX2,70,2023,1,4.2,2446,Music/Audiophile,Budget,Good,Medium,Standard
+Logitech G Fits,Logitech,G Fits,Sand,Yes,34.4,5.3,USB-C,Not Rated,420,2021,1,4.5,177,Studio/Pro,Premium,Excellent,Medium,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Sand,No,16,5.3,USB-C,Not Rated,80,2018,1,3.9,2877,Gaming,Budget,Average,Low,Standard
+Beats Studio Buds,Beats,Studio Buds,Space Gray,Yes,43.3,5.2,USB-C,IP55,440,2023,1,4.4,1641,Bass/Casual,Premium,Good,High,Standard
+Skullcandy Dime,Skullcandy,Dime,Graphite,No,23,5.3,USB-C,Not Rated,90,2024,1,3.9,11746,Gaming,Budget,Average,Medium,Standard
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Red,No,33.3,5.0,USB-C,IPX4,150,2021,2,4.1,1148,Studio/Pro,Mid-Range,Good,Medium,Extended
+Shokz OpenFit,Shokz,OpenFit,Graphite,Yes,36.2,5.0,Micro-USB,IP55,120,2023,2,4.6,3318,Music/Casual,Mid-Range,Excellent,Medium,Extended
+Apple AirPods 2,Apple,AirPods 2,Navy,No,15.8,5.2,Micro-USB,Not Rated,80,2020,1,4.7,1630,Commuting/Travel,Budget,Excellent,Low,Standard
+Jabra Elite 5,Jabra,Elite 5,Brown,Yes,33.8,Multipoint 5.3,USB-C,Not Rated,330,2020,2,3.8,4378,Music/Audiophile,Premium,Average,Medium,Extended
+Redmi Buds 6,Redmi,Buds 6,Cream,Yes,28.5,4.2,USB-C,IPX4,200,2020,2,3.9,1184,Studio/Pro,Mid-Range,Average,Medium,Extended
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,White,Yes,18.1,5.2,USB-C,IP57,210,2024,1,4.6,1225,Hi-Fi/Reference,Mid-Range,Excellent,Low,Standard
+boAt Airdopes 170,boAt,Airdopes 170,Space Gray,Yes,50.3,5.0,Lightning,IPX4,100,2024,2,4.7,633,Budget/Everyday,Mid-Range,Excellent,High,Extended
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Midnight Blue,Yes,34.7,5.2,Lightning,IP54,240,2021,2,4.4,3785,Studio/Pro,Mid-Range,Good,Medium,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Gunmetal,Yes,49.7,5.0,Micro-USB,Not Rated,200,2018,1,4.7,3390,Gaming,Mid-Range,Excellent,High,Standard
+Nothing Ear 1,Nothing,Ear 1,Sand,No,45.2,Multipoint 5.3,Micro-USB,IPX4,260,2023,2,4.6,1201,Studio/Pro,Premium,Excellent,High,Extended
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Indigo,No,34.7,5.2,Lightning,IPX2,200,2020,2,4.6,4323,Work/Office,Mid-Range,Excellent,Medium,Extended
+boAt Nirvana Zenith,boAt,Nirvana Zenith,Rose Gold,Yes,41.7,4.2,USB-C,IPX4,290,2019,2,4.7,337,Bass/Casual,Premium,Excellent,High,Extended
+Philips TAT1108,Philips,TAT1108,Gunmetal,Yes,25.5,5.2,USB-C,IPX7,180,2020,1,4.5,2704,Studio/Pro,Mid-Range,Excellent,Medium,Standard
+Philips TAT2206,Philips,TAT2206,Carbon,Yes,18.6,5.0,Lightning,IPX2,270,2018,1,4.5,1725,Gaming,Premium,Excellent,Low,Standard
+CMF Buds Pro,CMF,Buds Pro,Gunmetal,No,49.2,5.2,Micro-USB,IP54,120,2018,1,4.1,13879,Commuting/Travel,Mid-Range,Good,High,Standard
+Philips TAT1108,Philips,TAT1108,Silver,Yes,47.7,5.0,Micro-USB,IPX2,240,2018,1,4.4,1126,Commuting/Travel,Mid-Range,Good,High,Standard
+Sony WF-1000XM4,Sony,WF-1000XM4,Champagne,No,29.7,5.1,USB-C,IP57,160,2021,1,4.3,5466,Sport/Fitness,Mid-Range,Good,Medium,Standard
+Philips TAT1108,Philips,TAT1108,Brown,Yes,18.9,5.2,USB-C,IP57,310,2022,2,3.9,1716,Sport/Fitness,Premium,Average,Low,Extended
+Oppo Enco X2,Oppo,Enco X2,Rose Gold,No,36.4,5.0,USB-C,IPX8,160,2023,1,3.8,2904,Music/Casual,Mid-Range,Average,Medium,Standard
+Sony WF-C700N,Sony,WF-C700N,Indigo,No,19.1,5.3,USB-C,IPX8,100,2023,2,4.2,1535,Music/Casual,Mid-Range,Good,Low,Extended
+Jabra Elite 3,Jabra,Elite 3,Champagne,No,24.7,5.0,Lightning,IP55,210,2021,2,4.1,996,Music/Casual,Mid-Range,Good,Medium,Extended
+Boult X Mustang,Boult,X Mustang,Brown,No,36,5.2,Lightning,IP57,160,2021,2,4.4,10835,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Midnight Blue,Yes,36.3,5.3,USB-C,IP55,260,2019,2,4,401,Music/Casual,Premium,Good,Medium,Extended
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Pearl White,No,29.4,5.2,Micro-USB,IP55,200,2019,1,4,1031,Music/Casual,Mid-Range,Good,Medium,Standard
+Redmi Buds 6,Redmi,Buds 6,Pearl White,Yes,35.2,5.0,USB-C,IPX4,190,2019,1,4.7,892,Music/Casual,Mid-Range,Excellent,Medium,Standard
+JBL Live Pro 2,JBL,Live Pro 2,Dark Green,Yes,24.8,5.0,Micro-USB,IPX8,130,2023,1,3.8,3157,Bass/Casual,Mid-Range,Average,Medium,Standard
+boAt Airdopes 141,boAt,Airdopes 141,Black,No,53.8,5.2,Micro-USB,IPX7,170,2018,1,4.2,6214,Studio/Pro,Mid-Range,Good,High,Standard
+Nothing Ear,Nothing,Ear,Black,No,34.8,5.0,USB-C,IP57,160,2022,2,4.5,16673,Music/Casual,Mid-Range,Excellent,Medium,Extended
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Matte Black,Yes,40.6,5.0,Micro-USB,Not Rated,160,2024,1,4.4,2641,Work/Office,Mid-Range,Good,High,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Rose Gold,Yes,45.9,5.1,USB-C,Not Rated,280,2019,1,3.9,3171,Budget/Everyday,Premium,Average,High,Standard
+OnePlus Buds Pro 2,OnePlus,Buds Pro 2,Gunmetal,No,24.9,4.2,USB-C,IP55,240,2018,1,4.1,6589,Hi-Fi/Reference,Mid-Range,Good,Medium,Standard
+Beats Studio Buds,Beats,Studio Buds,Forest Green,Yes,16.2,5.2,Micro-USB,Not Rated,310,2020,2,4.3,589,Music/Audiophile,Premium,Good,Low,Extended
+Noise Air Buds Max,Noise,Air Buds Max,Red,No,32,5.2,Micro-USB,IPX2,140,2020,2,3.7,1976,Studio/Pro,Mid-Range,Average,Medium,Extended
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Champagne,Yes,30.9,5.3,USB-C,IPX7,140,2024,2,4.5,645,Studio/Pro,Mid-Range,Excellent,Medium,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Carbon,Yes,26,5.0,Lightning,IP55,150,2023,2,4.4,4494,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Carbon,Yes,18.3,5.1,Lightning,IP57,310,2019,1,4.6,751,Music/Audiophile,Premium,Excellent,Low,Standard
+boAt Nirvana Crystl,boAt,Nirvana Crystl,Space Gray,Yes,29.3,4.2,USB-C,Not Rated,360,2024,1,4.2,754,Music/Audiophile,Premium,Good,Medium,Standard
+Jabra Elite 5,Jabra,Elite 5,Forest Green,No,38.6,5.3,Lightning,IP57,90,2023,2,4.7,17183,Studio/Pro,Budget,Excellent,Medium,Extended
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Pearl White,No,27.5,5.2,Lightning,IPX4,80,2019,2,4.6,354,Gaming,Budget,Excellent,Medium,Extended
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Rose Gold,No,52.1,5.3,USB-C,IPX2,150,2019,1,4.6,950,Music/Casual,Mid-Range,Excellent,High,Standard
+Edifier X3,Edifier,X3,Red,No,38.9,5.3,USB-C,Not Rated,150,2021,2,4.1,580,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Sennheiser CX Plus,Sennheiser,CX Plus,Space Gray,No,11.3,5.0,USB-C,IPX7,180,2018,2,4.7,59033,Sport/Fitness,Mid-Range,Excellent,Low,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Graphite,No,15.9,4.2,Lightning,IP54,160,2018,1,4,3684,Studio/Pro,Mid-Range,Good,Low,Standard
+Boult Z40 Pro,Boult,Z40 Pro,Brown,Yes,22.3,5.0,USB-C,IPX8,290,2021,1,4.5,4586,Hi-Fi/Reference,Premium,Excellent,Medium,Standard
+Redmi Buds 4,Redmi,Buds 4,Navy,No,47.1,5.2,USB-C,IPX4,110,2021,1,3.6,3065,Sport/Fitness,Mid-Range,Average,High,Standard
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Cosmic Black,Yes,42.6,5.1,USB-C,IP55,210,2020,1,4.2,1776,Music/Casual,Mid-Range,Good,High,Standard
+Noise Buds VS104,Noise,Buds VS104,Titanium,Yes,34.6,5.3,Micro-USB,IPX8,330,2021,1,4.4,297,Commuting/Travel,Premium,Good,Medium,Standard
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Graphite,Yes,24.8,5.2,USB-C,IP55,310,2022,2,4.6,586,Hi-Fi/Reference,Premium,Excellent,Medium,Extended
+OnePlus Nord Buds 2R,OnePlus,Nord Buds 2R,Cosmic Black,Yes,29.6,5.2,USB-C,Not Rated,130,2021,1,3.7,389,Budget/Everyday,Mid-Range,Average,Medium,Standard
+Shokz OpenDots One,Shokz,OpenDots One,Sand,Yes,18,5.2,Lightning,IPX4,280,2022,1,4.2,3330,Studio/Pro,Premium,Good,Low,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Pearl White,No,32.2,5.3,Lightning,Not Rated,70,2021,2,3.8,955,Budget/Everyday,Budget,Average,Medium,Extended
+boAt Airdopes 161,boAt,Airdopes 161,Midnight Blue,No,27.6,5.0,USB-C,IP55,100,2020,1,4.8,4717,Budget/Everyday,Mid-Range,Excellent,Medium,Standard
+Realme Buds Air 3,Realme,Buds Air 3,Pearl White,No,33,5.3,USB-C,Not Rated,170,2023,1,4,5724,Bass/Casual,Mid-Range,Good,Medium,Standard
+Oppo Enco X2,Oppo,Enco X2,Gunmetal,No,42.9,5.0,USB-C,Not Rated,150,2019,2,4.5,1554,Music/Audiophile,Mid-Range,Excellent,High,Extended
+Edifier X5 Pro,Edifier,X5 Pro,Brown,Yes,11,5.3,USB-C,Not Rated,240,2019,2,4.4,632,Hi-Fi/Reference,Mid-Range,Good,Low,Extended
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Champagne,Yes,37.2,5.2,Micro-USB,Not Rated,180,2019,2,4.4,2376,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Edifier X5 Pro,Edifier,X5 Pro,Champagne,Yes,25.4,5.3,Micro-USB,Not Rated,190,2018,2,4.8,2314,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Extended
+Nothing Ear 2,Nothing,Ear 2,Red,No,26.2,5.0,Lightning,IPX4,140,2022,1,4.5,12168,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,White,No,26.5,5.2,Lightning,IPX4,240,2020,2,4.3,4620,Music/Casual,Mid-Range,Good,Medium,Extended
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Rose Gold,No,24.3,5.2,USB-C,Not Rated,100,2023,1,3.6,816,Sport/Fitness,Mid-Range,Average,Medium,Standard
+Redmi Buds 6,Redmi,Buds 6,Forest Green,Yes,36,5.2,Lightning,IP57,230,2020,2,4.7,10045,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Extended
+Boult X Mustang,Boult,X Mustang,Matte Black,No,31.7,5.2,USB-C,IP55,240,2023,1,4.5,96,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+Nothing Ear,Nothing,Ear,Indigo,Yes,36.2,5.0,USB-C,Not Rated,110,2018,2,3.9,2693,Commuting/Travel,Mid-Range,Average,Medium,Extended
+Oppo Enco Buds2,Oppo,Enco Buds2,Graphite,No,24.4,5.2,USB-C,IPX7,90,2024,1,4.2,8808,Work/Office,Budget,Good,Medium,Standard
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Sand,Yes,42.7,5.2,Lightning,Not Rated,240,2019,2,4,2072,Budget/Everyday,Mid-Range,Good,High,Extended
+Noise Buds VS402,Noise,Buds VS402,Forest Green,No,31.9,5.3,USB-C,IP54,80,2018,1,4.5,2123,Studio/Pro,Budget,Excellent,Medium,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Gunmetal,Yes,51,5.1,Lightning,IPX2,320,2019,1,4.5,3290,Music/Casual,Premium,Excellent,High,Standard
+Nothing Ear,Nothing,Ear,Graphite,Yes,51.7,5.0,Lightning,IPX4,240,2019,2,3.8,1774,Music/Audiophile,Mid-Range,Average,High,Extended
+Noise Buds VS201,Noise,Buds VS201,Space Gray,Yes,13.7,Multipoint 5.3,USB-C,IPX4,130,2019,1,4,1781,Music/Audiophile,Mid-Range,Good,Low,Standard
+Jabra Elite 5,Jabra,Elite 5,Silver,Yes,26,5.3,USB-C,Not Rated,290,2018,1,4.3,753,Gaming,Premium,Good,Medium,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Graphite,No,52.5,5.0,USB-C,IPX8,110,2018,1,4,12003,Bass/Casual,Mid-Range,Good,High,Standard
+CMF Buds,CMF,Buds,Rose Gold,No,28.2,5.0,Micro-USB,Not Rated,160,2024,1,4.4,714,Studio/Pro,Mid-Range,Good,Medium,Standard
+Philips TAT2206,Philips,TAT2206,Gunmetal,Yes,26.7,5.3,Lightning,IPX4,210,2020,2,4.4,1348,Bass/Casual,Mid-Range,Good,Medium,Extended
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Titanium,No,11.9,4.2,Lightning,IP57,170,2020,1,4.3,2510,Bass/Casual,Mid-Range,Good,Low,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Cosmic Black,No,41.3,5.2,Lightning,IP54,130,2019,1,4.4,3220,Music/Casual,Mid-Range,Good,High,Standard
+Noise Buds VS402,Noise,Buds VS402,Space Gray,Yes,43.1,5.2,USB-C,IP54,230,2022,2,3.7,506,Music/Audiophile,Mid-Range,Average,High,Extended
+Anker Soundcore Liberty 4,Anker Soundcore,Liberty 4,Champagne,Yes,57.5,5.2,USB-C,IPX4,120,2024,1,4.2,5054,Bass/Casual,Mid-Range,Good,High,Standard
+boAt Airdopes 170,boAt,Airdopes 170,Forest Green,No,17.6,5.2,USB-C,IPX7,210,2020,2,4,702,Sport/Fitness,Mid-Range,Good,Low,Extended
+Logitech G Fits,Logitech,G Fits,Cream,Yes,23.9,Multipoint 5.3,USB-C,IP54,180,2021,1,4.2,8472,Hi-Fi/Reference,Mid-Range,Good,Medium,Standard
+Boult X Mustang,Boult,X Mustang,Navy,No,22.2,5.3,Lightning,IPX4,110,2019,2,4.6,4076,Commuting/Travel,Mid-Range,Excellent,Medium,Extended
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Gunmetal,Yes,21.2,5.3,USB-C,IP55,110,2023,2,4,836,Studio/Pro,Mid-Range,Good,Medium,Extended
+CMF Buds Pro,CMF,Buds Pro,Dark Green,No,24.7,5.3,Micro-USB,IP57,170,2021,1,4.3,12345,Studio/Pro,Mid-Range,Good,Medium,Standard
+Edifier X3,Edifier,X3,Navy,Yes,49.5,5.2,USB-C,IPX4,180,2022,1,4.2,14220,Commuting/Travel,Mid-Range,Good,High,Standard
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,White,No,11.5,5.2,USB-C,IP55,100,2019,1,4.3,5060,Gaming,Mid-Range,Good,Low,Standard
+boAt Nirvana Zenith,boAt,Nirvana Zenith,Champagne,No,51.4,5.1,USB-C,IP55,220,2022,1,4.2,2937,Gaming,Mid-Range,Good,High,Standard
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Brown,Yes,23.4,5.0,USB-C,IPX4,260,2019,1,3.7,1023,Commuting/Travel,Premium,Average,Medium,Standard
+OnePlus Buds Z2,OnePlus,Buds Z2,Gunmetal,No,15.5,5.2,Lightning,IPX2,90,2021,1,4.5,7607,Sport/Fitness,Budget,Excellent,Low,Standard
+Beats Studio Buds,Beats,Studio Buds,Navy,Yes,19.8,4.2,USB-C,IPX2,330,2022,2,4.5,1787,Gaming,Premium,Excellent,Low,Extended
+OnePlus Buds Pro 2,OnePlus,Buds Pro 2,Titanium,Yes,33.6,5.2,USB-C,IP57,310,2021,1,4.6,2521,Hi-Fi/Reference,Premium,Excellent,Medium,Standard
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Rose Gold,Yes,29,5.2,USB-C,Not Rated,120,2022,1,4,1441,Gaming,Mid-Range,Good,Medium,Standard
+Beats Studio Buds,Beats,Studio Buds,Dark Green,No,44.8,5.3,Lightning,IPX7,180,2020,2,4.2,2416,Music/Audiophile,Mid-Range,Good,High,Extended
+OnePlus Nord Buds 2,OnePlus,Nord Buds 2,Carbon,Yes,15.7,5.2,Micro-USB,Not Rated,230,2018,1,4.2,780,Hi-Fi/Reference,Mid-Range,Good,Low,Standard
+pTron Zenbuds Evo,pTron,Zenbuds Evo,Rose Gold,Yes,24.6,5.0,Micro-USB,Not Rated,150,2018,2,4.4,1221,Bass/Casual,Mid-Range,Good,Medium,Extended
+Anker Soundcore P40i,Anker Soundcore,P40i,Cosmic Black,No,11.1,5.0,USB-C,Not Rated,170,2024,1,4.1,756,Hi-Fi/Reference,Mid-Range,Good,Low,Standard
+JBL Endurance Peak 3,JBL,Endurance Peak 3,Brown,No,15.2,5.0,USB-C,Not Rated,120,2024,2,3.7,7895,Sport/Fitness,Mid-Range,Average,Low,Extended
+Shokz OpenDots One,Shokz,OpenDots One,Dark Green,No,34.2,5.3,USB-C,IP57,240,2019,1,4.3,2530,Sport/Fitness,Mid-Range,Good,Medium,Standard
+Sennheiser CX Plus,Sennheiser,CX Plus,White,No,34.3,5.2,USB-C,IP55,180,2021,1,4.4,4039,Sport/Fitness,Mid-Range,Good,Medium,Standard
+boAt Airdopes 311 Pro,boAt,Airdopes 311 Pro,Navy,Yes,14.2,5.0,USB-C,Not Rated,280,2024,2,4.6,287,Hi-Fi/Reference,Premium,Excellent,Low,Extended
+Realme Buds T300,Realme,Buds T300,Graphite,Yes,41.7,5.0,USB-C,IPX4,200,2021,1,4.1,1126,Commuting/Travel,Mid-Range,Good,High,Standard
+boAt Airdopes Alpha,boAt,Airdopes Alpha,Red,No,40.5,5.3,Micro-USB,IPX7,150,2023,1,3.9,6212,Hi-Fi/Reference,Mid-Range,Average,High,Standard
+Redmi Buds 5,Redmi,Buds 5,White,Yes,26.6,5.1,Micro-USB,IPX4,150,2021,1,3.9,121,Commuting/Travel,Mid-Range,Average,Medium,Standard
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Graphite,Yes,48.7,Multipoint 5.3,USB-C,IP54,240,2019,1,4.6,4555,Sport/Fitness,Mid-Range,Excellent,High,Standard
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Forest Green,Yes,25.8,5.2,USB-C,Not Rated,260,2024,1,3.8,8803,Commuting/Travel,Premium,Average,Medium,Standard
+Nothing Ear 1,Nothing,Ear 1,Titanium,Yes,25.6,5.3,Lightning,Not Rated,230,2023,2,4.8,277,Gaming,Mid-Range,Excellent,Medium,Extended
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Cosmic Black,Yes,21.5,5.0,Lightning,IPX7,110,2019,1,4.8,1912,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Nothing Ear,Nothing,Ear,Sand,No,19.4,5.0,USB-C,IPX7,210,2022,1,3.9,511,Commuting/Travel,Mid-Range,Average,Low,Standard
+Jabra Elite 5,Jabra,Elite 5,Titanium,Yes,51.1,5.0,USB-C,IPX8,240,2019,2,4.7,598,Hi-Fi/Reference,Mid-Range,Excellent,High,Extended
+Nothing Ear,Nothing,Ear,Navy,No,8.7,5.2,Lightning,IPX7,120,2023,2,4.6,3383,Gaming,Mid-Range,Excellent,Low,Extended
+Noise Buds VS102,Noise,Buds VS102,Forest Green,Yes,28.9,5.0,USB-C,IPX4,210,2023,1,4.6,1466,Work/Office,Mid-Range,Excellent,Medium,Standard
+Philips TAT1108,Philips,TAT1108,Indigo,No,55.2,5.2,Lightning,Not Rated,200,2018,1,4.6,3494,Gaming,Mid-Range,Excellent,High,Standard
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Sand,No,14.2,5.1,USB-C,Not Rated,90,2023,2,4.7,11808,Commuting/Travel,Budget,Excellent,Low,Extended
+Realme Buds Air 6,Realme,Buds Air 6,Gunmetal,Yes,13.2,5.0,Lightning,IP57,230,2024,2,4.4,327,Sport/Fitness,Mid-Range,Good,Low,Extended
+Huawei FreeBuds 5i,Huawei,FreeBuds 5i,Silver,No,28.1,5.0,USB-C,Not Rated,140,2023,1,3.7,26781,Music/Casual,Mid-Range,Average,Medium,Standard
+CMF Buds Pro,CMF,Buds Pro,Dark Green,No,34.4,5.0,USB-C,IP54,160,2024,2,4.3,465,Gaming,Mid-Range,Good,Medium,Extended
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Cream,No,34.9,5.2,Lightning,Not Rated,190,2018,1,4.1,1254,Music/Casual,Mid-Range,Good,Medium,Standard
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Dark Green,No,23.5,4.2,Lightning,IPX2,170,2019,1,3.8,9919,Sport/Fitness,Mid-Range,Average,Medium,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,White,Yes,30.3,5.0,USB-C,Not Rated,120,2019,1,4.5,363,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Standard
+JBL Vibe Beam,JBL,Vibe Beam,White,No,22.6,5.2,USB-C,IP55,150,2021,2,3.7,19245,Work/Office,Mid-Range,Average,Medium,Extended
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Black,Yes,36.2,5.3,USB-C,IPX4,210,2024,2,4.1,2938,Gaming,Mid-Range,Good,Medium,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Carbon,No,35.8,5.2,USB-C,IPX2,150,2020,1,4.6,2842,Work/Office,Mid-Range,Excellent,Medium,Standard
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Graphite,Yes,49.7,5.0,USB-C,IPX4,360,2019,1,3.7,1821,Work/Office,Premium,Average,High,Standard
+Samsung Galaxy Buds 2,Samsung,Galaxy Buds 2,Navy,Yes,28.9,5.3,USB-C,IPX7,180,2022,2,4.3,1440,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Nothing Ear,Nothing,Ear,Silver,Yes,29.5,5.1,Micro-USB,IPX7,170,2023,1,4.2,695,Studio/Pro,Mid-Range,Good,Medium,Standard
+Edifier X5 Pro,Edifier,X5 Pro,Cream,No,47.6,5.0,USB-C,IP57,120,2023,2,4.3,1639,Gaming,Mid-Range,Good,High,Extended
+Oppo Enco X,Oppo,Enco X,Cosmic Black,Yes,15.2,5.2,USB-C,IPX8,230,2021,1,4.1,199,Work/Office,Mid-Range,Good,Low,Standard
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Red,Yes,26,5.2,USB-C,IPX7,330,2022,1,4,825,Bass/Casual,Premium,Good,Medium,Standard
+OnePlus Nord Buds,OnePlus,Nord Buds,Midnight Blue,No,34.3,5.3,Micro-USB,Not Rated,170,2019,2,4.1,1107,Studio/Pro,Mid-Range,Good,Medium,Extended
+Philips TAT2206,Philips,TAT2206,Indigo,Yes,53.4,5.2,Micro-USB,Not Rated,200,2019,1,4.5,3179,Gaming,Mid-Range,Excellent,High,Standard
+Skullcandy Dime 3,Skullcandy,Dime 3,Pearl White,No,37.5,4.2,USB-C,IP57,160,2019,1,4.4,8388,Hi-Fi/Reference,Mid-Range,Good,Medium,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Indigo,Yes,34.5,5.3,Micro-USB,IPX7,200,2019,1,4.6,11582,Gaming,Mid-Range,Excellent,Medium,Standard
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Silver,No,28.3,Multipoint 5.3,USB-C,Not Rated,170,2021,2,4.5,4874,Studio/Pro,Mid-Range,Excellent,Medium,Extended
+JBL Tour Pro 2,JBL,Tour Pro 2,Gunmetal,Yes,25.7,5.2,USB-C,Not Rated,130,2024,2,4.2,2363,Gaming,Mid-Range,Good,Medium,Extended
+Nothing Ear,Nothing,Ear,Brown,No,37,5.1,Lightning,Not Rated,130,2018,1,4.3,2072,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Champagne,Yes,44.1,5.3,Lightning,IP57,210,2024,2,4.3,453,Music/Casual,Mid-Range,Good,High,Extended
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Space Gray,Yes,50.4,5.0,Micro-USB,IPX2,210,2023,1,4.2,98,Gaming,Mid-Range,Good,High,Standard
+CMF Buds Pro,CMF,Buds Pro,White,No,21.1,5.0,USB-C,IPX4,150,2020,1,4.6,8756,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Philips TAT4556,Philips,TAT4556,Navy,Yes,27.6,5.1,USB-C,IPX2,170,2020,1,4.7,21436,Sport/Fitness,Mid-Range,Excellent,Medium,Standard
+Boult X Mustang,Boult,X Mustang,Rose Gold,Yes,41.5,Multipoint 5.3,USB-C,Not Rated,150,2019,2,4.7,6973,Gaming,Mid-Range,Excellent,High,Extended
+Philips TAT4556,Philips,TAT4556,Cosmic Black,No,37.7,4.2,USB-C,Not Rated,140,2019,2,4.3,4736,Work/Office,Mid-Range,Good,Medium,Extended
+boAt Airdopes 131,boAt,Airdopes 131,Brown,No,30.1,5.3,Lightning,IP54,120,2021,1,4,1386,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Samsung Galaxy Buds FE,Samsung,Galaxy Buds FE,Gunmetal,No,37.9,5.0,USB-C,IPX8,150,2020,2,4.2,8384,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Apple AirPods Pro 2,Apple,AirPods Pro 2,Black,No,36,5.0,Micro-USB,IPX7,110,2019,1,4.5,1001,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Noise Air Buds Max,Noise,Air Buds Max,Red,Yes,56.3,5.2,USB-C,Not Rated,260,2020,1,4.2,4256,Hi-Fi/Reference,Premium,Good,High,Standard
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Midnight Blue,No,53.9,4.2,USB-C,IP57,140,2024,2,4.8,715,Bass/Casual,Mid-Range,Excellent,High,Extended
+Oppo Enco X2,Oppo,Enco X2,Carbon,Yes,31.5,5.2,Micro-USB,Not Rated,240,2022,1,3.9,670,Hi-Fi/Reference,Mid-Range,Average,Medium,Standard
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Red,Yes,22.9,5.0,Lightning,IP57,270,2019,1,3.9,1374,Studio/Pro,Premium,Average,Medium,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Sand,No,24.8,5.0,USB-C,IP57,150,2024,2,4.3,2153,Hi-Fi/Reference,Mid-Range,Good,Medium,Extended
+JBL Wave Buds,JBL,Wave Buds,Titanium,Yes,26.9,5.3,Lightning,IPX4,280,2021,1,3.8,478,Gaming,Premium,Average,Medium,Standard
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Indigo,Yes,57.4,5.2,Lightning,IP55,150,2021,1,4.1,1149,Commuting/Travel,Mid-Range,Good,High,Standard
+Shokz OpenDots One,Shokz,OpenDots One,Brown,Yes,30.8,5.3,USB-C,IPX4,200,2023,1,4.5,279,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Standard
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Graphite,Yes,43.3,5.2,USB-C,IPX7,480,2022,2,4.3,1054,Commuting/Travel,Premium,Good,High,Extended
+Boult X Mustang,Boult,X Mustang,White,No,46.3,5.0,USB-C,IPX4,120,2020,2,4,1728,Budget/Everyday,Mid-Range,Good,High,Extended
+Jabra Elite 5,Jabra,Elite 5,Navy,No,43.3,5.3,USB-C,IPX8,110,2020,1,4.3,4786,Studio/Pro,Mid-Range,Good,High,Standard
+Edifier X3,Edifier,X3,Indigo,No,34.2,5.3,USB-C,IPX2,70,2023,2,4.5,9503,Budget/Everyday,Budget,Excellent,Medium,Extended
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Red,Yes,26.8,4.2,USB-C,Not Rated,350,2023,1,4.2,3744,Work/Office,Premium,Good,Medium,Standard
+Shokz OpenDots One,Shokz,OpenDots One,Titanium,No,31.1,5.1,Lightning,IP55,210,2022,2,4.1,502,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Sony WF-XB700,Sony,WF-XB700,Pearl White,No,14.8,5.0,USB-C,IP55,90,2022,1,3.9,1859,Work/Office,Budget,Average,Low,Standard
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Titanium,No,26.8,5.2,Lightning,IPX2,80,2021,1,4.5,515,Sport/Fitness,Budget,Excellent,Medium,Standard
+Logitech G Fits,Logitech,G Fits,Black,Yes,34.8,5.0,USB-C,IP55,410,2021,2,4.4,959,Hi-Fi/Reference,Premium,Good,Medium,Extended
+Realme Buds Air 3,Realme,Buds Air 3,Sand,Yes,51.8,5.2,USB-C,Not Rated,230,2018,2,4.1,2638,Commuting/Travel,Mid-Range,Good,High,Extended
+Apple AirPods 2,Apple,AirPods 2,Red,No,26.6,5.3,USB-C,IP55,110,2022,2,3.6,12988,Sport/Fitness,Mid-Range,Average,Medium,Extended
+Redmi Buds 4,Redmi,Buds 4,Graphite,No,36.8,5.2,USB-C,Not Rated,100,2018,1,4.6,982,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Carbon,Yes,44.8,5.2,USB-C,IPX8,440,2024,1,4.7,1075,Music/Audiophile,Premium,Excellent,High,Standard
+Redmi Buds 4,Redmi,Buds 4,Dark Green,Yes,35.2,5.3,Micro-USB,IPX2,250,2021,2,4.5,420,Music/Audiophile,Premium,Excellent,Medium,Extended
+Redmi Buds 6,Redmi,Buds 6,Graphite,No,43.7,5.1,USB-C,IPX4,120,2023,2,4.3,2251,Bass/Casual,Mid-Range,Good,High,Extended
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Carbon,Yes,29.3,5.3,USB-C,Not Rated,130,2023,1,4.8,228,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Logitech G Fits,Logitech,G Fits,Rose Gold,Yes,36.4,5.0,USB-C,IPX8,170,2023,1,3.9,993,Studio/Pro,Mid-Range,Average,Medium,Standard
+CMF Buds,CMF,Buds,Gunmetal,Yes,14.7,5.2,USB-C,IPX4,170,2023,1,4,896,Work/Office,Mid-Range,Good,Low,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Midnight Blue,No,31.6,5.0,Micro-USB,Not Rated,200,2018,1,4.1,1779,Commuting/Travel,Mid-Range,Good,Medium,Standard
+OnePlus Buds Z2,OnePlus,Buds Z2,Forest Green,Yes,40.7,5.2,Micro-USB,IPX4,220,2023,2,4.3,1075,Work/Office,Mid-Range,Good,High,Extended
+Sennheiser CX Plus,Sennheiser,CX Plus,White,No,26.9,5.1,Lightning,Not Rated,170,2019,1,3.7,841,Work/Office,Mid-Range,Average,Medium,Standard
+Jabra Elite 8 Active,Jabra,Elite 8 Active,Space Gray,Yes,26.5,5.1,Lightning,IPX7,250,2019,2,4.5,325,Music/Audiophile,Premium,Excellent,Medium,Extended
+Huawei FreeBuds 5i,Huawei,FreeBuds 5i,Indigo,No,11.2,5.3,USB-C,Not Rated,170,2023,1,4.2,1872,Bass/Casual,Mid-Range,Good,Low,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Dark Green,No,22.4,5.2,USB-C,Not Rated,280,2018,1,4.9,5153,Hi-Fi/Reference,Premium,Excellent,Medium,Standard
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Cosmic Black,Yes,45,5.3,USB-C,IP57,210,2022,1,3.6,1090,Budget/Everyday,Mid-Range,Average,High,Standard
+Apple AirPods Pro,Apple,AirPods Pro,Space Gray,No,20.2,5.2,Lightning,IPX7,150,2023,2,4.3,9421,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Gunmetal,Yes,38.1,5.0,Lightning,IPX4,350,2023,1,4.4,591,Bass/Casual,Premium,Good,Medium,Standard
+Shokz OpenFit,Shokz,OpenFit,Black,Yes,15.3,4.2,USB-C,IP54,320,2018,1,4.4,718,Gaming,Premium,Good,Low,Standard
+Skullcandy Rail,Skullcandy,Rail,Graphite,Yes,40.6,5.2,Micro-USB,IP57,240,2023,1,4.1,22092,Commuting/Travel,Mid-Range,Good,High,Standard
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Titanium,Yes,32.6,5.0,USB-C,IP55,350,2019,1,4.5,786,Music/Casual,Premium,Excellent,Medium,Standard
+Sony WF-C500,Sony,WF-C500,Champagne,Yes,12.9,5.0,USB-C,Not Rated,180,2019,1,4.5,75,Music/Casual,Mid-Range,Excellent,Low,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Brown,Yes,16.4,5.2,Micro-USB,IPX7,180,2021,2,4.5,1760,Commuting/Travel,Mid-Range,Excellent,Low,Extended
+Logitech G Fits,Logitech,G Fits,Brown,No,13.8,Multipoint 5.3,Micro-USB,IPX4,210,2020,1,4.1,10357,Work/Office,Mid-Range,Good,Low,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Matte Black,Yes,40.2,5.0,USB-C,IPX7,150,2022,1,4.1,376,Gaming,Mid-Range,Good,High,Standard
+Apple AirPods 3,Apple,AirPods 3,Graphite,No,32.2,4.2,Micro-USB,IPX4,180,2021,1,4.4,790,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Graphite,No,34.7,5.0,USB-C,IPX4,140,2021,1,4.8,6383,Music/Casual,Mid-Range,Excellent,Medium,Standard
+CMF Buds Pro,CMF,Buds Pro,Red,Yes,32.9,5.2,USB-C,Not Rated,220,2021,1,3.9,5227,Music/Audiophile,Mid-Range,Average,Medium,Standard
+Philips TAT4556,Philips,TAT4556,Dark Green,No,15.5,5.0,USB-C,Not Rated,160,2020,1,4.2,349,Music/Casual,Mid-Range,Good,Low,Standard
+Nothing Ear,Nothing,Ear,Cosmic Black,No,26.9,5.0,USB-C,IPX7,130,2024,2,4.7,1417,Bass/Casual,Mid-Range,Excellent,Medium,Extended
+OnePlus Buds Pro 2,OnePlus,Buds Pro 2,Rose Gold,Yes,32.1,Multipoint 5.3,Micro-USB,IP55,250,2023,2,4.4,2374,Work/Office,Premium,Good,Medium,Extended
+CMF Buds Pro,CMF,Buds Pro,Forest Green,Yes,38,Multipoint 5.3,USB-C,IPX2,320,2020,1,4.6,3175,Studio/Pro,Premium,Excellent,Medium,Standard
+boAt Airdopes 161,boAt,Airdopes 161,Titanium,Yes,9.6,5.2,Micro-USB,IPX8,260,2019,1,4.4,4114,Bass/Casual,Premium,Good,Low,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Cream,No,24.8,5.2,USB-C,Not Rated,200,2024,1,4.6,3187,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Standard
+Realme Buds Air 5,Realme,Buds Air 5,Red,No,35.6,5.2,USB-C,IPX2,230,2018,1,4.4,1358,Commuting/Travel,Mid-Range,Good,Medium,Standard
+boAt Airdopes 170,boAt,Airdopes 170,Midnight Blue,No,25.3,5.1,USB-C,IPX7,120,2019,2,3.7,3910,Music/Audiophile,Mid-Range,Average,Medium,Extended
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Champagne,No,31,5.2,Lightning,IPX2,180,2022,1,4.4,5633,Work/Office,Mid-Range,Good,Medium,Standard
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Matte Black,No,29.8,5.0,USB-C,Not Rated,130,2023,2,3.9,539,Work/Office,Mid-Range,Average,Medium,Extended
+Shokz OpenFit Air,Shokz,OpenFit Air,Indigo,Yes,36,5.2,USB-C,Not Rated,340,2018,1,3.5,1127,Commuting/Travel,Premium,Average,Medium,Standard
+Sony WF-1000XM5,Sony,WF-1000XM5,Indigo,No,24.7,5.0,USB-C,IP57,110,2019,2,3.9,244,Commuting/Travel,Mid-Range,Average,Medium,Extended
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Navy,No,30.7,5.0,USB-C,Not Rated,130,2024,2,4.3,6522,Bass/Casual,Mid-Range,Good,Medium,Extended
+Logitech G Fits,Logitech,G Fits,Black,Yes,25.7,5.3,Lightning,Not Rated,310,2020,2,4.5,3972,Commuting/Travel,Premium,Excellent,Medium,Extended
+Apple AirPods Pro 2,Apple,AirPods Pro 2,White,No,16.9,5.2,Lightning,IP57,150,2020,2,3.9,5012,Budget/Everyday,Mid-Range,Average,Low,Extended
+Noise Buds VS102,Noise,Buds VS102,Black,No,39.2,4.2,USB-C,Not Rated,180,2021,1,4.2,669,Gaming,Mid-Range,Good,Medium,Standard
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Space Gray,No,39.2,5.2,Micro-USB,IP55,250,2020,1,4.1,3976,Gaming,Premium,Good,Medium,Standard
+Apple AirPods 4,Apple,AirPods 4,Matte Black,Yes,27.5,5.0,USB-C,IPX8,250,2021,2,3.8,2621,Sport/Fitness,Premium,Average,Medium,Extended
+Beats Fit Pro,Beats,Fit Pro,Matte Black,Yes,34.8,5.0,USB-C,IP54,200,2020,2,4.3,2308,Work/Office,Mid-Range,Good,Medium,Extended
+Philips TAT4556,Philips,TAT4556,Dark Green,Yes,13,5.2,USB-C,IP55,170,2020,1,3.8,304,Budget/Everyday,Mid-Range,Average,Low,Standard
+Logitech G Fits,Logitech,G Fits,Forest Green,Yes,10.9,5.2,USB-C,IPX4,170,2020,1,3.9,353,Studio/Pro,Mid-Range,Average,Low,Standard
+Apple AirPods 2,Apple,AirPods 2,White,Yes,54.1,5.0,USB-C,IP57,140,2020,2,4.5,722,Budget/Everyday,Mid-Range,Excellent,High,Extended
+Shokz OpenFit,Shokz,OpenFit,Indigo,No,34.1,5.0,Lightning,IP54,180,2019,1,4.5,3860,Studio/Pro,Mid-Range,Excellent,Medium,Standard
+Logitech G Fits,Logitech,G Fits,Pearl White,No,32.3,5.0,USB-C,Not Rated,110,2020,1,4.4,698,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Titanium,No,48.4,5.0,USB-C,IPX4,210,2022,1,4.5,1851,Commuting/Travel,Mid-Range,Excellent,High,Standard
+JBL Live Pro 2,JBL,Live Pro 2,Dark Green,No,37.7,5.3,Micro-USB,IPX8,200,2022,1,4,2438,Hi-Fi/Reference,Mid-Range,Good,Medium,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Navy,No,25,5.0,Lightning,Not Rated,140,2019,2,4.1,4466,Music/Casual,Mid-Range,Good,Medium,Extended
+JBL Live Beam 3,JBL,Live Beam 3,Forest Green,Yes,36.1,5.0,USB-C,Not Rated,270,2019,1,4.7,4358,Work/Office,Premium,Excellent,Medium,Standard
+Logitech G Fits,Logitech,G Fits,Champagne,No,16.3,Multipoint 5.3,USB-C,Not Rated,160,2023,1,4.5,857,Music/Casual,Mid-Range,Excellent,Low,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Red,No,43.1,5.2,USB-C,IPX4,180,2022,1,4.3,1815,Work/Office,Mid-Range,Good,High,Standard
+Samsung Galaxy Buds3 Pro,Samsung,Galaxy Buds3 Pro,Gunmetal,Yes,25.9,5.0,USB-C,IP54,430,2019,2,4.2,2583,Hi-Fi/Reference,Premium,Good,Medium,Extended
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Sand,No,22.7,5.1,USB-C,IPX8,220,2023,1,4.6,567,Studio/Pro,Mid-Range,Excellent,Medium,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Brown,Yes,42.5,Multipoint 5.3,Micro-USB,Not Rated,130,2024,2,4.7,3101,Music/Casual,Mid-Range,Excellent,High,Extended
+Boult Z40 Pro,Boult,Z40 Pro,Brown,No,34.5,5.0,USB-C,Not Rated,70,2019,2,4.1,71748,Budget/Everyday,Budget,Good,Medium,Extended
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Red,Yes,26.9,5.3,USB-C,IPX4,400,2024,1,4.4,4080,Sport/Fitness,Premium,Good,Medium,Standard
+Realme Buds T100,Realme,Buds T100,Pearl White,No,41.1,5.3,Lightning,IP55,120,2018,1,4.4,193,Studio/Pro,Mid-Range,Good,High,Standard
+Sennheiser CX True Wireless,Sennheiser,CX True Wireless,White,Yes,25.9,5.2,Lightning,IPX4,150,2019,2,4.2,1602,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Sony WF-C500,Sony,WF-C500,Matte Black,No,38,5.2,USB-C,IPX4,70,2019,1,4.3,4783,Bass/Casual,Budget,Good,Medium,Standard
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Midnight Blue,Yes,33.6,5.2,Micro-USB,IPX7,330,2022,2,3.9,6654,Hi-Fi/Reference,Premium,Average,Medium,Extended
+Realme Buds T310,Realme,Buds T310,Red,Yes,22.8,5.0,USB-C,IPX4,210,2020,1,4.5,995,Work/Office,Mid-Range,Excellent,Medium,Standard
+Redmi Buds 6,Redmi,Buds 6,Space Gray,No,40.1,Multipoint 5.3,Micro-USB,IPX7,130,2022,2,4.6,9662,Work/Office,Mid-Range,Excellent,High,Extended
+Apple AirPods Pro,Apple,AirPods Pro,Navy,Yes,51.8,5.3,USB-C,IPX8,170,2018,2,4.6,450,Commuting/Travel,Mid-Range,Excellent,High,Extended
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Brown,No,10.5,5.3,Micro-USB,Not Rated,150,2018,2,4.6,1132,Work/Office,Mid-Range,Excellent,Low,Extended
+Sony WF-1000XM5,Sony,WF-1000XM5,White,Yes,34.8,5.0,Lightning,IPX4,220,2021,2,4.3,1122,Studio/Pro,Mid-Range,Good,Medium,Extended
+Jabra Elite 5,Jabra,Elite 5,Carbon,Yes,49.1,5.2,USB-C,IPX4,360,2024,2,4.6,8122,Commuting/Travel,Premium,Excellent,High,Extended
+boAt Airdopes 161,boAt,Airdopes 161,Cream,Yes,36.4,5.0,USB-C,IPX4,230,2023,1,3.7,496,Studio/Pro,Mid-Range,Average,Medium,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Carbon,No,17.1,5.1,Lightning,IP57,170,2022,1,4.2,3585,Work/Office,Mid-Range,Good,Low,Standard
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Sand,No,36.5,5.0,USB-C,IP55,120,2018,1,4.3,1532,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Apple AirPods 4,Apple,AirPods 4,Cream,No,51.4,5.1,USB-C,IPX4,120,2023,2,3.8,1319,Commuting/Travel,Mid-Range,Average,High,Extended
+boAt Nirvana Crystl,boAt,Nirvana Crystl,Indigo,Yes,13.9,Multipoint 5.3,USB-C,IP54,290,2024,2,4.2,9979,Work/Office,Premium,Good,Low,Extended
+Skullcandy Dime 3,Skullcandy,Dime 3,Brown,No,39.7,5.2,Micro-USB,IP54,200,2024,1,4.1,823,Sport/Fitness,Mid-Range,Good,Medium,Standard
+CMF Buds Pro 2,CMF,Buds Pro 2,White,Yes,19.6,4.2,USB-C,IP55,180,2023,1,4.4,3038,Budget/Everyday,Mid-Range,Good,Low,Standard
+Edifier X5 Pro,Edifier,X5 Pro,Dark Green,Yes,27.8,5.2,USB-C,IPX4,210,2021,1,4.1,889,Sport/Fitness,Mid-Range,Good,Medium,Standard
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Rose Gold,No,32.8,5.2,Lightning,IPX4,90,2024,2,4.5,650,Gaming,Budget,Excellent,Medium,Extended
+Samsung Galaxy Buds FE,Samsung,Galaxy Buds FE,Matte Black,Yes,56.1,5.0,Lightning,Not Rated,220,2024,1,4.4,3872,Music/Casual,Mid-Range,Good,High,Standard
+Shokz OpenFit,Shokz,OpenFit,Black,No,27.7,4.2,USB-C,IP55,110,2020,1,4.2,2961,Music/Casual,Mid-Range,Good,Medium,Standard
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Carbon,Yes,36.2,5.2,USB-C,IPX8,280,2021,1,4.4,972,Studio/Pro,Premium,Good,Medium,Standard
+Philips TAT2206,Philips,TAT2206,Cosmic Black,No,35.7,5.3,USB-C,Not Rated,90,2019,2,4.6,3930,Gaming,Budget,Excellent,Medium,Extended
+CMF Buds Pro 2,CMF,Buds Pro 2,Midnight Blue,Yes,22.2,5.2,USB-C,Not Rated,250,2023,1,4.2,5510,Bass/Casual,Premium,Good,Medium,Standard
+Nothing Ear,Nothing,Ear,Pearl White,Yes,21,Multipoint 5.3,USB-C,IP54,210,2019,1,4.4,1828,Work/Office,Mid-Range,Good,Medium,Standard
+Edifier X5 Pro,Edifier,X5 Pro,Matte Black,Yes,34,5.2,Lightning,IPX8,260,2020,1,4.1,1775,Hi-Fi/Reference,Premium,Good,Medium,Standard
+Anker Soundcore Liberty 4,Anker Soundcore,Liberty 4,Silver,No,47.2,Multipoint 5.3,Lightning,IP57,90,2024,1,4.3,842,Music/Audiophile,Budget,Good,High,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Space Gray,No,17.7,5.2,USB-C,IPX8,130,2021,2,4.8,712,Work/Office,Mid-Range,Excellent,Low,Extended
+Apple AirPods Pro 2,Apple,AirPods Pro 2,White,No,29.1,5.2,USB-C,IPX7,150,2021,1,3.9,1418,Gaming,Mid-Range,Average,Medium,Standard
+Redmi Buds 5 Pro,Redmi,Buds 5 Pro,Titanium,Yes,49.1,5.2,USB-C,IP54,250,2021,1,4.2,2222,Studio/Pro,Premium,Good,High,Standard
+Sony LinkBuds S,Sony,LinkBuds S,Carbon,Yes,45.5,5.0,Lightning,IPX7,230,2019,1,3.9,10793,Sport/Fitness,Mid-Range,Average,High,Standard
+boAt Airdopes 170,boAt,Airdopes 170,Rose Gold,Yes,21.5,5.1,USB-C,Not Rated,170,2018,2,3.9,1511,Bass/Casual,Mid-Range,Average,Medium,Extended
+Sony LinkBuds S,Sony,LinkBuds S,Pearl White,No,28.8,5.2,Micro-USB,IP57,150,2020,1,4.4,12676,Hi-Fi/Reference,Mid-Range,Good,Medium,Standard
+OnePlus Buds Pro,OnePlus,Buds Pro,Midnight Blue,No,19.8,5.2,Lightning,Not Rated,90,2023,2,4.8,208,Hi-Fi/Reference,Budget,Excellent,Low,Extended
+Samsung Galaxy Buds FE,Samsung,Galaxy Buds FE,Carbon,Yes,24.4,5.2,USB-C,IP55,350,2020,2,4.7,1581,Studio/Pro,Premium,Excellent,Medium,Extended
+Huawei FreeBuds 5i,Huawei,FreeBuds 5i,Indigo,Yes,31.7,5.2,USB-C,Not Rated,170,2019,1,4.5,32439,Gaming,Mid-Range,Excellent,Medium,Standard
+Sony WF-1000XM5,Sony,WF-1000XM5,Forest Green,No,43,5.0,Micro-USB,Not Rated,160,2021,1,4.3,774,Work/Office,Mid-Range,Good,High,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Pearl White,Yes,35,5.3,USB-C,IPX4,240,2020,2,4.2,1836,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Apple AirPods 4,Apple,AirPods 4,Cosmic Black,No,51.7,5.0,USB-C,IP55,180,2021,2,4.6,632,Sport/Fitness,Mid-Range,Excellent,High,Extended
+Boult X Mustang,Boult,X Mustang,Graphite,No,27.8,Multipoint 5.3,USB-C,IPX4,120,2019,1,4.2,4159,Music/Casual,Mid-Range,Good,Medium,Standard
+boAt Nirvana Zenith,boAt,Nirvana Zenith,Red,Yes,28.2,5.2,USB-C,IPX4,230,2023,1,4,2661,Gaming,Mid-Range,Good,Medium,Standard
+Boult Z40 Pro,Boult,Z40 Pro,Red,Yes,27.1,5.3,USB-C,IPX2,200,2020,2,4.2,290,Music/Casual,Mid-Range,Good,Medium,Extended
+Noise Air Buds Lite,Noise,Air Buds Lite,White,No,46.9,5.3,USB-C,IPX4,110,2023,2,4.1,1592,Commuting/Travel,Mid-Range,Good,High,Extended
+Edifier X3,Edifier,X3,Matte Black,No,23.8,Multipoint 5.3,USB-C,Not Rated,90,2020,1,3.9,5016,Work/Office,Budget,Average,Medium,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Dark Green,No,51.5,5.0,USB-C,IP55,200,2024,1,4.7,5412,Studio/Pro,Mid-Range,Excellent,High,Standard
+Apple AirPods Pro,Apple,AirPods Pro,Cosmic Black,No,19.5,5.1,USB-C,IP54,170,2018,1,3.9,14875,Work/Office,Mid-Range,Average,Low,Standard
+boAt Airdopes Flex,boAt,Airdopes Flex,Rose Gold,No,49.1,5.2,USB-C,IPX7,170,2020,1,4,1446,Gaming,Mid-Range,Good,High,Standard
+Boult Omega,Boult,Omega,Sand,Yes,55.6,5.0,Lightning,IPX8,150,2023,2,4.4,1524,Hi-Fi/Reference,Mid-Range,Good,High,Extended
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Brown,No,44.7,5.0,Micro-USB,IP54,120,2023,1,4.9,690,Budget/Everyday,Mid-Range,Excellent,High,Standard
+Philips TAT2206,Philips,TAT2206,Navy,No,18.2,5.3,Lightning,IP54,150,2019,1,4.6,503,Studio/Pro,Mid-Range,Excellent,Low,Standard
+Boult Z40 Pro,Boult,Z40 Pro,Graphite,Yes,12.9,5.3,USB-C,IPX7,270,2021,1,3.7,13846,Work/Office,Premium,Average,Low,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Pearl White,No,22.7,Multipoint 5.3,Micro-USB,IPX7,120,2018,1,4.6,1146,Budget/Everyday,Mid-Range,Excellent,Medium,Standard
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Navy,Yes,28.5,5.3,USB-C,Not Rated,220,2020,2,4.3,988,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Rose Gold,No,9.6,4.2,Micro-USB,IPX2,170,2024,1,3.8,14585,Music/Audiophile,Mid-Range,Average,Low,Standard
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Forest Green,No,22.6,5.2,Micro-USB,IP57,160,2019,2,4,7716,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Skullcandy Rail,Skullcandy,Rail,Black,No,13.4,5.2,USB-C,IP55,210,2019,1,4,682,Gaming,Mid-Range,Good,Low,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Graphite,Yes,19.1,Multipoint 5.3,USB-C,Not Rated,250,2019,1,4,651,Bass/Casual,Premium,Good,Low,Standard
+Apple AirPods 4,Apple,AirPods 4,Champagne,Yes,47.9,5.3,Micro-USB,IPX4,130,2021,2,4.5,11145,Budget/Everyday,Mid-Range,Excellent,High,Extended
+Sony LinkBuds,Sony,LinkBuds,Dark Green,No,39,5.2,USB-C,IP57,150,2020,2,4.1,12868,Music/Casual,Mid-Range,Good,Medium,Extended
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Brown,No,54.4,5.0,USB-C,IPX4,140,2019,2,4.5,1374,Gaming,Mid-Range,Excellent,High,Extended
+Skullcandy Dime 2,Skullcandy,Dime 2,Dark Green,No,33,4.2,USB-C,IPX2,180,2021,2,3.9,1178,Gaming,Mid-Range,Average,Medium,Extended
+Realme Buds Air 3,Realme,Buds Air 3,Dark Green,Yes,26.1,5.2,Micro-USB,IPX2,320,2019,2,4.7,1712,Work/Office,Premium,Excellent,Medium,Extended
+Sony WF-C500,Sony,WF-C500,Red,Yes,42.3,4.2,Micro-USB,IPX4,330,2021,2,3.9,3926,Bass/Casual,Premium,Average,High,Extended
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Carbon,No,38.2,5.0,Lightning,Not Rated,110,2018,2,4,2239,Music/Casual,Mid-Range,Good,Medium,Extended
+JBL Wave Buds,JBL,Wave Buds,Indigo,Yes,50.8,5.0,Lightning,IPX4,280,2023,1,4.5,1651,Music/Casual,Premium,Excellent,High,Standard
+Nothing Ear 2,Nothing,Ear 2,Champagne,No,19.6,5.1,Micro-USB,IPX4,170,2018,1,4.4,1865,Bass/Casual,Mid-Range,Good,Low,Standard
+Boult Z40 Pro,Boult,Z40 Pro,Rose Gold,Yes,36.7,Multipoint 5.3,Micro-USB,IP54,150,2018,2,4.5,903,Music/Casual,Mid-Range,Excellent,Medium,Extended
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Pearl White,Yes,16.7,5.0,USB-C,IPX4,340,2024,1,4.5,6810,Studio/Pro,Premium,Excellent,Low,Standard
+Redmi Buds 6,Redmi,Buds 6,Cream,Yes,22.1,5.2,USB-C,IPX2,280,2020,2,4.3,414,Sport/Fitness,Premium,Good,Medium,Extended
+Noise Air Buds Lite,Noise,Air Buds Lite,Dark Green,Yes,22,4.2,Micro-USB,IPX7,240,2022,2,4.3,15722,Studio/Pro,Mid-Range,Good,Medium,Extended
+Shokz OpenFit,Shokz,OpenFit,Cosmic Black,No,14.2,5.1,USB-C,IPX4,130,2024,1,4.2,680,Commuting/Travel,Mid-Range,Good,Low,Standard
+Realme Buds Air 6,Realme,Buds Air 6,Silver,Yes,18,5.2,USB-C,IPX8,270,2019,2,4.6,1662,Music/Casual,Premium,Excellent,Low,Extended
+CMF Buds Pro 2,CMF,Buds Pro 2,Brown,Yes,25.2,5.0,USB-C,Not Rated,240,2021,1,5,2220,Bass/Casual,Mid-Range,Excellent,Medium,Standard
+Edifier X5 Pro,Edifier,X5 Pro,Silver,Yes,45.5,Multipoint 5.3,USB-C,IP54,200,2022,1,4.4,9925,Work/Office,Mid-Range,Good,High,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Black,Yes,21.6,5.3,USB-C,IPX8,180,2024,2,3.8,288,Studio/Pro,Mid-Range,Average,Medium,Extended
+Shokz OpenFit Air,Shokz,OpenFit Air,Titanium,No,20.4,5.0,USB-C,IP54,130,2019,1,4.5,4228,Studio/Pro,Mid-Range,Excellent,Medium,Standard
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Carbon,Yes,25,5.2,Micro-USB,IPX4,170,2024,1,4.2,4836,Commuting/Travel,Mid-Range,Good,Medium,Standard
+boAt Airdopes 311 Pro,boAt,Airdopes 311 Pro,Brown,No,45.6,Multipoint 5.3,USB-C,IPX7,110,2019,1,4.2,924,Hi-Fi/Reference,Mid-Range,Good,High,Standard
+Redmi Buds 6,Redmi,Buds 6,Sand,No,50.3,5.3,Micro-USB,IPX7,100,2022,1,3.9,930,Bass/Casual,Mid-Range,Average,High,Standard
+Philips TAT1108,Philips,TAT1108,Champagne,Yes,27.8,5.0,Lightning,IPX4,160,2019,1,4.7,8718,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Standard
+Apple AirPods Pro,Apple,AirPods Pro,Black,Yes,7.3,4.2,USB-C,IPX7,200,2020,2,4.4,684,Gaming,Mid-Range,Good,Low,Extended
+Apple AirPods Pro 2,Apple,AirPods Pro 2,White,Yes,48.5,Multipoint 5.3,USB-C,IPX4,180,2021,1,3.9,3727,Music/Audiophile,Mid-Range,Average,High,Standard
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Brown,No,19.7,5.0,USB-C,IPX7,180,2021,2,4.2,624,Bass/Casual,Mid-Range,Good,Low,Extended
+Philips TAT3508,Philips,TAT3508,Silver,No,29.9,5.3,USB-C,IP54,150,2023,2,4.9,2716,Bass/Casual,Mid-Range,Excellent,Medium,Extended
+Realme Buds Air 3,Realme,Buds Air 3,White,No,28.6,5.0,Micro-USB,IPX7,150,2022,1,4.6,2255,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+JBL Tour Pro 2,JBL,Tour Pro 2,Titanium,Yes,26,Multipoint 5.3,Lightning,IPX4,180,2020,2,4.3,2658,Work/Office,Mid-Range,Good,Medium,Extended
+boAt Airdopes 441,boAt,Airdopes 441,Titanium,No,29.7,5.1,USB-C,IP57,210,2019,1,4.5,1784,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Pearl White,Yes,31.5,5.3,USB-C,IP54,230,2024,1,4.2,3176,Music/Casual,Mid-Range,Good,Medium,Standard
+Nothing Ear 1,Nothing,Ear 1,Silver,Yes,37,5.2,USB-C,IPX2,340,2022,1,4.6,3111,Bass/Casual,Premium,Excellent,Medium,Standard
+JBL Tour Pro 2,JBL,Tour Pro 2,Matte Black,Yes,40,5.2,Micro-USB,IPX4,360,2020,1,4,400,Music/Casual,Premium,Good,High,Standard
+Redmi Buds 4,Redmi,Buds 4,Sand,No,18,4.2,USB-C,IP55,200,2024,1,4.9,3321,Studio/Pro,Mid-Range,Excellent,Low,Standard
+Oppo Enco Buds2,Oppo,Enco Buds2,Silver,Yes,24.1,5.0,Micro-USB,IP57,260,2022,1,4.5,11488,Budget/Everyday,Premium,Excellent,Medium,Standard
+Realme Buds Air 5,Realme,Buds Air 5,Gunmetal,No,36,5.1,Lightning,IP54,90,2024,2,4.4,23082,Gaming,Budget,Good,Medium,Extended
+pTron Bassbuds Tango,pTron,Bassbuds Tango,Rose Gold,No,31.1,5.3,USB-C,IPX7,100,2024,1,4.4,13504,Bass/Casual,Mid-Range,Good,Medium,Standard
+Edifier X3,Edifier,X3,White,No,34.9,5.0,USB-C,IPX4,150,2020,2,4.1,1572,Bass/Casual,Mid-Range,Good,Medium,Extended
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Forest Green,Yes,42.3,5.3,Micro-USB,Not Rated,190,2024,2,4.4,2463,Hi-Fi/Reference,Mid-Range,Good,High,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Carbon,No,44.1,5.0,Lightning,Not Rated,130,2022,2,3.8,1175,Music/Casual,Mid-Range,Average,High,Extended
+JBL Endurance Peak 3,JBL,Endurance Peak 3,Matte Black,Yes,30.4,5.2,USB-C,IPX7,240,2020,1,4.1,133,Bass/Casual,Mid-Range,Good,Medium,Standard
+Noise Air Buds Pro,Noise,Air Buds Pro,Matte Black,No,50.1,5.1,USB-C,IPX4,210,2020,1,3.8,1890,Studio/Pro,Mid-Range,Average,High,Standard
+Sony WF-XB700,Sony,WF-XB700,Navy,Yes,14,5.2,Lightning,IP55,160,2024,1,4.4,1856,Work/Office,Mid-Range,Good,Low,Standard
+Noise Combat Z,Noise,Combat Z,Cream,Yes,54.4,5.3,Micro-USB,IPX2,280,2018,1,4.3,9156,Sport/Fitness,Premium,Good,High,Standard
+Redmi Buds 5,Redmi,Buds 5,Midnight Blue,Yes,26.2,5.2,USB-C,IP57,180,2024,1,4.4,321,Hi-Fi/Reference,Mid-Range,Good,Medium,Standard
+Apple AirPods Pro,Apple,AirPods Pro,Forest Green,No,50.8,5.0,USB-C,IPX7,130,2021,2,4.4,3014,Music/Audiophile,Mid-Range,Good,High,Extended
+Huawei FreeBuds 5i,Huawei,FreeBuds 5i,Pearl White,Yes,47.4,Multipoint 5.3,Micro-USB,Not Rated,150,2021,1,4.2,273,Sport/Fitness,Mid-Range,Good,High,Standard
+Skullcandy Dime 2,Skullcandy,Dime 2,Pearl White,No,37.9,5.3,USB-C,IP55,120,2022,1,4.2,1155,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Beats Studio Buds,Beats,Studio Buds,Cream,No,15.7,5.2,USB-C,IPX4,70,2024,2,4.6,373,Gaming,Budget,Excellent,Low,Extended
+Samsung Galaxy Buds FE,Samsung,Galaxy Buds FE,Cream,No,18.2,5.0,USB-C,IPX2,210,2021,1,4.4,5198,Commuting/Travel,Mid-Range,Good,Low,Standard
+Skullcandy Dime 3,Skullcandy,Dime 3,Navy,Yes,40.4,5.2,USB-C,IP54,160,2019,1,4.6,1450,Gaming,Mid-Range,Excellent,High,Standard
+Skullcandy Dime,Skullcandy,Dime,Carbon,Yes,39.5,5.1,USB-C,IPX2,360,2022,2,4.3,419,Commuting/Travel,Premium,Good,Medium,Extended
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Pearl White,No,17.6,5.1,USB-C,IPX2,170,2019,1,4.6,2864,Music/Audiophile,Mid-Range,Excellent,Low,Standard
+Nothing Ear (a),Nothing,Ear (a),Sand,Yes,38.4,5.0,Micro-USB,Not Rated,350,2020,1,4.3,913,Studio/Pro,Premium,Good,Medium,Standard
+Beats Studio Buds,Beats,Studio Buds,Black,No,26,5.3,USB-C,Not Rated,100,2019,1,4.4,4376,Music/Audiophile,Mid-Range,Good,Medium,Standard
+Noise Buds VS402,Noise,Buds VS402,Indigo,Yes,47.1,Multipoint 5.3,USB-C,Not Rated,330,2021,2,4.3,4861,Commuting/Travel,Premium,Good,High,Extended
+boAt Airdopes 141,boAt,Airdopes 141,Space Gray,No,23.7,5.2,Lightning,IPX4,150,2020,1,4.2,3516,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Realme Buds T300,Realme,Buds T300,Space Gray,No,19.1,5.0,USB-C,IPX4,100,2023,1,4.4,2747,Hi-Fi/Reference,Mid-Range,Good,Low,Standard
+boAt Airdopes Alpha,boAt,Airdopes Alpha,Pearl White,Yes,54.9,5.0,Lightning,IPX7,290,2018,1,4.5,419,Work/Office,Premium,Excellent,High,Standard
+JBL Live Beam 3,JBL,Live Beam 3,Cosmic Black,Yes,43.1,5.2,USB-C,Not Rated,270,2021,1,4,275,Studio/Pro,Premium,Good,High,Standard
+Nothing Ear (a),Nothing,Ear (a),Graphite,No,17.4,4.2,USB-C,IPX2,230,2020,2,4.4,2122,Sport/Fitness,Mid-Range,Good,Low,Extended
+Nothing Ear (a),Nothing,Ear (a),Forest Green,No,11.2,5.0,USB-C,IPX7,170,2023,2,4.1,5417,Budget/Everyday,Mid-Range,Good,Low,Extended
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Red,Yes,7.7,Multipoint 5.3,Lightning,IP54,260,2021,2,4.2,8178,Work/Office,Premium,Good,Low,Extended
+OnePlus Buds Z2,OnePlus,Buds Z2,Brown,Yes,41.2,5.3,USB-C,Not Rated,190,2023,1,4.5,929,Gaming,Mid-Range,Excellent,High,Standard
+OnePlus Nord Buds 2,OnePlus,Nord Buds 2,Cosmic Black,Yes,30.4,5.3,USB-C,IPX4,270,2022,1,4.3,372,Music/Audiophile,Premium,Good,Medium,Standard
+Edifier X3,Edifier,X3,Pearl White,No,20.1,5.0,USB-C,IPX8,110,2021,1,4.3,2781,Bass/Casual,Mid-Range,Good,Medium,Standard
+Boult Z40 Pro,Boult,Z40 Pro,Cream,No,17.4,5.3,USB-C,Not Rated,110,2024,1,4.9,1349,Hi-Fi/Reference,Mid-Range,Excellent,Low,Standard
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Navy,Yes,27.9,5.0,USB-C,IPX2,130,2024,2,3.7,7633,Gaming,Mid-Range,Average,Medium,Extended
+OnePlus Buds 3,OnePlus,Buds 3,Cosmic Black,Yes,28.4,5.0,USB-C,Not Rated,280,2023,2,4.6,328,Work/Office,Premium,Excellent,Medium,Extended
+Oppo Enco Air 3,Oppo,Enco Air 3,Champagne,Yes,46.4,Multipoint 5.3,USB-C,IPX4,260,2022,2,3.7,2388,Commuting/Travel,Premium,Average,High,Extended
+CMF Buds,CMF,Buds,Cosmic Black,Yes,23.5,5.3,USB-C,IP57,210,2018,2,4.3,438,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Apple AirPods Pro 2,Apple,AirPods Pro 2,Black,No,32.7,5.1,USB-C,IPX7,110,2023,2,4.8,348,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Extended
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Navy,Yes,24.8,5.1,USB-C,IP55,270,2022,2,4.3,636,Gaming,Premium,Good,Medium,Extended
+boAt Airdopes 280 ANC,boAt,Airdopes 280 ANC,Graphite,Yes,31.8,5.0,Lightning,IPX4,150,2023,2,4,2465,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Beats Studio Buds,Beats,Studio Buds,Navy,Yes,31.5,Multipoint 5.3,USB-C,IP54,280,2021,1,4.5,3874,Sport/Fitness,Premium,Excellent,Medium,Standard
+Edifier X3,Edifier,X3,Matte Black,Yes,23.6,5.2,Micro-USB,Not Rated,320,2022,1,4.4,1473,Music/Casual,Premium,Good,Medium,Standard
+boAt Airdopes 441,boAt,Airdopes 441,Brown,Yes,21.4,5.0,Lightning,IP55,190,2022,2,4.2,1424,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Oppo Enco Buds2,Oppo,Enco Buds2,Champagne,Yes,23.8,5.0,Lightning,IP57,130,2020,2,4.3,1129,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Boult Z40 Pro,Boult,Z40 Pro,Sand,Yes,25.6,5.0,USB-C,Not Rated,430,2018,1,4.1,1140,Studio/Pro,Premium,Good,Medium,Standard
+CMF Buds Pro,CMF,Buds Pro,Indigo,No,14.2,5.3,USB-C,IP54,180,2019,2,3.9,5359,Gaming,Mid-Range,Average,Low,Extended
+Oppo Enco Air 3,Oppo,Enco Air 3,Forest Green,No,17.4,5.0,USB-C,IP57,150,2018,1,3.8,177,Commuting/Travel,Mid-Range,Average,Low,Standard
+Sony WF-1000XM5,Sony,WF-1000XM5,Silver,Yes,10.9,5.0,USB-C,IPX8,360,2022,1,4.6,824,Studio/Pro,Premium,Excellent,Low,Standard
+Skullcandy Dime 3,Skullcandy,Dime 3,Dark Green,Yes,32.1,5.0,Micro-USB,IPX2,190,2021,1,3.9,14401,Music/Casual,Mid-Range,Average,Medium,Standard
+Sony WF-1000XM4,Sony,WF-1000XM4,Gunmetal,Yes,17,4.2,Micro-USB,IPX8,190,2024,1,4.3,3527,Sport/Fitness,Mid-Range,Good,Low,Standard
+Jabra Elite 3,Jabra,Elite 3,Matte Black,No,46.8,Multipoint 5.3,Lightning,IP55,120,2023,2,4.3,2735,Hi-Fi/Reference,Mid-Range,Good,High,Extended
+Philips TAT4556,Philips,TAT4556,Silver,No,17.3,5.3,USB-C,IP54,100,2019,2,4.7,703,Music/Casual,Mid-Range,Excellent,Low,Extended
+Realme Buds Air 3,Realme,Buds Air 3,White,No,26.3,5.0,USB-C,IP55,100,2023,2,4.4,1391,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Sand,Yes,22.4,4.2,USB-C,IPX4,410,2024,2,4.4,959,Budget/Everyday,Premium,Good,Medium,Extended
+Sony WF-1000XM4,Sony,WF-1000XM4,Pearl White,No,44.9,5.0,USB-C,Not Rated,70,2019,1,4.7,3577,Studio/Pro,Budget,Excellent,High,Standard
+Skullcandy Dime,Skullcandy,Dime,Rose Gold,No,43.1,5.2,Lightning,IPX8,150,2023,1,3.9,27877,Music/Audiophile,Mid-Range,Average,High,Standard
+Nothing Ear 1,Nothing,Ear 1,Matte Black,No,12.3,5.3,USB-C,IPX7,80,2020,2,3.9,165,Music/Casual,Budget,Average,Low,Extended
+boAt Airdopes 170,boAt,Airdopes 170,Dark Green,Yes,48.3,5.0,USB-C,Not Rated,280,2021,1,4.4,152,Sport/Fitness,Premium,Good,High,Standard
+JBL Tune Beam,JBL,Tune Beam,Silver,No,20.4,5.3,USB-C,IPX4,170,2023,2,4.4,1032,Hi-Fi/Reference,Mid-Range,Good,Medium,Extended
+Anker Soundcore Liberty 4,Anker Soundcore,Liberty 4,Navy,Yes,14.5,5.0,USB-C,IPX4,170,2024,2,3.8,526,Commuting/Travel,Mid-Range,Average,Low,Extended
+boAt Airdopes 141,boAt,Airdopes 141,Brown,Yes,27.5,5.3,Lightning,IPX4,220,2019,2,4.5,33690,Music/Casual,Mid-Range,Excellent,Medium,Extended
+OnePlus Buds Z2,OnePlus,Buds Z2,Cosmic Black,No,23.8,5.2,USB-C,IPX7,250,2018,2,4.2,878,Budget/Everyday,Premium,Good,Medium,Extended
+Nothing Ear 2,Nothing,Ear 2,Rose Gold,No,40,4.2,USB-C,IP55,140,2020,1,3.7,508,Music/Casual,Mid-Range,Average,High,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Cream,Yes,26.4,5.0,USB-C,Not Rated,150,2022,1,4.2,493,Gaming,Mid-Range,Good,Medium,Standard
+Skullcandy Dime 2,Skullcandy,Dime 2,White,No,36.5,5.2,USB-C,IPX4,200,2024,1,4.5,458,Work/Office,Mid-Range,Excellent,Medium,Standard
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Rose Gold,No,21.9,5.0,USB-C,Not Rated,90,2024,1,4.4,5705,Work/Office,Budget,Good,Medium,Standard
+Oppo Enco X2,Oppo,Enco X2,Carbon,No,35.6,5.1,USB-C,IPX4,110,2023,2,4,1172,Work/Office,Mid-Range,Good,Medium,Extended
+OnePlus Buds 3,OnePlus,Buds 3,Forest Green,Yes,13.4,5.3,USB-C,IPX8,150,2020,2,4,1720,Commuting/Travel,Mid-Range,Good,Low,Extended
+Sennheiser CX True Wireless,Sennheiser,CX True Wireless,Forest Green,Yes,19.8,5.2,Lightning,Not Rated,250,2019,2,4.5,1386,Hi-Fi/Reference,Premium,Excellent,Low,Extended
+Realme Buds T100,Realme,Buds T100,Carbon,No,24.7,5.3,USB-C,IPX8,110,2021,2,4.8,5854,Music/Casual,Mid-Range,Excellent,Medium,Extended
+JBL Tune Beam,JBL,Tune Beam,Sand,Yes,22.9,5.0,Micro-USB,IP54,190,2024,2,4.1,5989,Hi-Fi/Reference,Mid-Range,Good,Medium,Extended
+Apple AirPods 4,Apple,AirPods 4,Navy,Yes,26.4,5.0,USB-C,IPX2,190,2023,2,4.4,613,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Boult Curve Max,Boult,Curve Max,Black,Yes,31.6,4.2,USB-C,IPX4,220,2020,1,4.5,2498,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Realme Buds Air 3,Realme,Buds Air 3,Brown,No,34.5,5.3,USB-C,IPX7,150,2024,1,4.5,1241,Hi-Fi/Reference,Mid-Range,Excellent,Medium,Standard
+OnePlus Nord Buds,OnePlus,Nord Buds,Graphite,Yes,29.3,5.3,USB-C,Not Rated,120,2023,2,4.5,79,Studio/Pro,Mid-Range,Excellent,Medium,Extended
+pTron Bassbuds Jade,pTron,Bassbuds Jade,Champagne,Yes,35.5,5.1,USB-C,Not Rated,200,2024,1,4,1196,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Brown,Yes,40.2,5.0,Micro-USB,Not Rated,270,2024,1,4,4412,Sport/Fitness,Premium,Good,High,Standard
+Shokz OpenDots One,Shokz,OpenDots One,Space Gray,No,37.7,5.2,Lightning,Not Rated,250,2023,2,4,3011,Commuting/Travel,Premium,Good,Medium,Extended
+Shokz OpenDots One,Shokz,OpenDots One,Sand,No,12.3,5.0,Micro-USB,Not Rated,90,2022,2,3.9,1022,Commuting/Travel,Budget,Average,Low,Extended
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Champagne,No,22.9,5.2,USB-C,IPX8,160,2019,1,4.8,4485,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,White,No,37.2,5.3,USB-C,Not Rated,110,2024,1,4.7,841,Sport/Fitness,Mid-Range,Excellent,Medium,Standard
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Champagne,Yes,20.4,5.3,USB-C,IPX2,260,2018,1,4.4,1094,Bass/Casual,Premium,Good,Medium,Standard
+Sony LinkBuds,Sony,LinkBuds,Graphite,No,39,5.2,USB-C,Not Rated,100,2023,2,4.9,733,Studio/Pro,Mid-Range,Excellent,Medium,Extended
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Brown,No,26.2,5.0,Lightning,IP55,250,2019,1,4.5,5186,Hi-Fi/Reference,Premium,Excellent,Medium,Standard
+Samsung Galaxy Buds Live,Samsung,Galaxy Buds Live,Cream,Yes,48.5,5.0,USB-C,IP54,130,2024,2,4.5,4690,Studio/Pro,Mid-Range,Excellent,High,Extended
+OnePlus Buds Pro,OnePlus,Buds Pro,Matte Black,Yes,29.9,5.0,USB-C,Not Rated,230,2023,1,4.3,29070,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Indigo,Yes,18.1,5.3,USB-C,IPX8,180,2022,1,4.4,651,Music/Audiophile,Mid-Range,Good,Low,Standard
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Carbon,No,23.8,5.2,USB-C,IPX2,220,2018,1,4.5,2653,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Sennheiser CX Plus,Sennheiser,CX Plus,Cosmic Black,No,19.5,5.3,USB-C,IPX7,200,2019,2,4.3,864,Music/Audiophile,Mid-Range,Good,Low,Extended
+Apple AirPods Pro 2,Apple,AirPods Pro 2,Space Gray,Yes,17.7,5.2,USB-C,IP54,210,2022,2,4.3,1430,Commuting/Travel,Mid-Range,Good,Low,Extended
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Cream,Yes,46.8,4.2,USB-C,Not Rated,160,2021,1,4.1,1522,Music/Audiophile,Mid-Range,Good,High,Standard
+Apple AirPods 4,Apple,AirPods 4,Red,Yes,36.9,4.2,USB-C,Not Rated,380,2023,1,3.7,2542,Gaming,Premium,Average,Medium,Standard
+Beats Studio Buds,Beats,Studio Buds,Black,Yes,34.2,5.3,Lightning,IPX2,240,2022,1,4.1,1306,Work/Office,Mid-Range,Good,Medium,Standard
+Beats Fit Pro,Beats,Fit Pro,Black,Yes,15.5,5.2,Micro-USB,Not Rated,160,2021,2,4.2,8916,Music/Audiophile,Mid-Range,Good,Low,Extended
+Nothing Ear (a),Nothing,Ear (a),Indigo,No,15.9,Multipoint 5.3,USB-C,IP54,180,2023,2,3.7,703,Budget/Everyday,Mid-Range,Average,Low,Extended
+OnePlus Buds Z2,OnePlus,Buds Z2,Black,Yes,22.7,5.2,USB-C,IP55,150,2019,2,3.9,551,Hi-Fi/Reference,Mid-Range,Average,Medium,Extended
+Sennheiser Momentum True Wireless 4,Sennheiser,Momentum True Wireless 4,Matte Black,Yes,29.3,Multipoint 5.3,USB-C,IP54,300,2022,1,4.1,10681,Commuting/Travel,Premium,Good,Medium,Standard
+OnePlus Buds Pro,OnePlus,Buds Pro,Silver,Yes,42.8,5.0,USB-C,IP55,230,2018,2,4.6,16280,Commuting/Travel,Mid-Range,Excellent,High,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Titanium,No,31.6,5.3,USB-C,IPX2,130,2022,2,4.7,432,Music/Audiophile,Mid-Range,Excellent,Medium,Extended
+Oppo Enco X,Oppo,Enco X,Titanium,Yes,20,5.3,USB-C,IPX4,250,2021,1,4.5,3979,Hi-Fi/Reference,Premium,Excellent,Medium,Standard
+Philips TAT1108,Philips,TAT1108,Sand,No,24.1,5.2,Micro-USB,IP57,130,2024,2,4.4,1922,Commuting/Travel,Mid-Range,Good,Medium,Extended
+CMF Buds Pro,CMF,Buds Pro,Indigo,No,31.6,5.3,USB-C,IP57,120,2022,2,4.6,1661,Commuting/Travel,Mid-Range,Excellent,Medium,Extended
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Black,Yes,9.7,5.0,USB-C,IPX4,230,2021,1,4.1,549,Hi-Fi/Reference,Mid-Range,Good,Low,Standard
+Realme Buds Air 5,Realme,Buds Air 5,Black,Yes,37.7,5.3,Lightning,IP57,140,2022,2,4.6,632,Work/Office,Mid-Range,Excellent,Medium,Extended
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Silver,Yes,19.4,5.0,USB-C,Not Rated,160,2020,2,4,7132,Commuting/Travel,Mid-Range,Good,Low,Extended
+Nothing Ear (a),Nothing,Ear (a),Cream,Yes,34.9,4.2,Lightning,IP54,320,2023,1,4.2,1452,Bass/Casual,Premium,Good,Medium,Standard
+Edifier TWS1 Pro,Edifier,TWS1 Pro,Sand,Yes,21.8,5.3,USB-C,IPX4,190,2022,1,4.6,2213,Work/Office,Mid-Range,Excellent,Medium,Standard
+Realme Buds T100,Realme,Buds T100,White,Yes,25.5,5.0,USB-C,Not Rated,230,2020,2,4.7,1004,Music/Audiophile,Mid-Range,Excellent,Medium,Extended
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Dark Green,No,34.8,5.1,Micro-USB,IP57,100,2024,2,4.3,5950,Studio/Pro,Mid-Range,Good,Medium,Extended
+Nothing Ear,Nothing,Ear,Brown,No,41.4,5.1,Micro-USB,IPX4,230,2021,1,4,2411,Budget/Everyday,Mid-Range,Good,High,Standard
+Beats Fit Pro,Beats,Fit Pro,Champagne,No,26.8,5.3,USB-C,Not Rated,100,2024,1,4.1,413,Studio/Pro,Mid-Range,Good,Medium,Standard
+Nothing Ear 1,Nothing,Ear 1,Silver,No,30.1,5.3,Lightning,Not Rated,230,2021,1,4.5,8930,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Skullcandy Sesh Evo,Skullcandy,Sesh Evo,Titanium,Yes,39.3,Multipoint 5.3,USB-C,Not Rated,230,2022,2,4,2487,Bass/Casual,Mid-Range,Good,Medium,Extended
+Sony WF-C700N,Sony,WF-C700N,Brown,No,19.6,5.2,USB-C,IPX8,100,2022,1,4.2,6136,Work/Office,Mid-Range,Good,Low,Standard
+OnePlus Buds Pro,OnePlus,Buds Pro,Rose Gold,Yes,27.1,5.1,Micro-USB,IP57,100,2022,2,4.4,981,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Nothing Ear,Nothing,Ear,Graphite,No,28.4,5.3,Lightning,IP57,180,2021,1,4.3,689,Music/Audiophile,Mid-Range,Good,Medium,Standard
+Edifier X5 Pro,Edifier,X5 Pro,Red,No,23.7,5.0,USB-C,Not Rated,130,2021,1,4.1,666,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Anker Soundcore Life P2,Anker Soundcore,Life P2,Cream,No,35.2,4.2,USB-C,IP55,220,2018,1,4.8,3796,Sport/Fitness,Mid-Range,Excellent,Medium,Standard
+Sony WF-C700N,Sony,WF-C700N,Cream,Yes,35.8,5.3,USB-C,IP57,260,2024,1,4.4,341,Gaming,Premium,Good,Medium,Standard
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Silver,No,32.7,5.0,USB-C,IPX7,200,2022,2,4.2,1488,Bass/Casual,Mid-Range,Good,Medium,Extended
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Sand,No,18.8,5.2,USB-C,Not Rated,160,2023,1,4.6,6371,Budget/Everyday,Mid-Range,Excellent,Low,Standard
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Titanium,Yes,35.2,5.0,USB-C,IP57,120,2018,1,4.6,9218,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Red,No,18.3,5.3,USB-C,IPX8,140,2024,2,4.9,947,Sport/Fitness,Mid-Range,Excellent,Low,Extended
+boAt Airdopes Flex,boAt,Airdopes Flex,Navy,Yes,16.5,5.2,USB-C,IPX8,180,2022,2,3.8,1412,Gaming,Mid-Range,Average,Low,Extended
+pTron Bassbuds Tango,pTron,Bassbuds Tango,Space Gray,Yes,17.2,5.2,USB-C,IP57,190,2021,2,4.6,6193,Gaming,Mid-Range,Excellent,Low,Extended
+Philips TAT4556,Philips,TAT4556,Carbon,No,53.3,Multipoint 5.3,USB-C,IPX7,120,2021,2,3.6,3628,Studio/Pro,Mid-Range,Average,High,Extended
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Silver,Yes,21.6,5.2,USB-C,IPX4,240,2019,1,4.7,2801,Sport/Fitness,Mid-Range,Excellent,Medium,Standard
+CMF Buds Pro,CMF,Buds Pro,Navy,Yes,25.5,5.0,Micro-USB,IP57,330,2018,1,4.2,1481,Work/Office,Premium,Good,Medium,Standard
+Noise Air Buds Pro,Noise,Air Buds Pro,Carbon,No,39.6,5.0,USB-C,IPX7,80,2018,1,4.5,434,Music/Casual,Budget,Excellent,Medium,Standard
+Xiaomi Buds 5 Pro,Xiaomi,Buds 5 Pro,Cosmic Black,Yes,10.7,5.2,Lightning,IP57,340,2023,1,4.6,712,Commuting/Travel,Premium,Excellent,Low,Standard
+OnePlus Nord Buds,OnePlus,Nord Buds,Cosmic Black,No,26.8,5.0,USB-C,IP54,170,2019,1,4.4,2009,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Philips TAT4556,Philips,TAT4556,Titanium,No,31.4,5.0,USB-C,IPX7,140,2024,2,4.5,1485,Music/Audiophile,Mid-Range,Excellent,Medium,Extended
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Cosmic Black,No,42.3,5.3,Lightning,IP55,170,2020,2,4.1,1603,Sport/Fitness,Mid-Range,Good,High,Extended
+Sony LinkBuds,Sony,LinkBuds,Matte Black,Yes,33.8,5.3,USB-C,Not Rated,240,2018,1,3.7,5094,Bass/Casual,Mid-Range,Average,Medium,Standard
+Oppo Enco Air 2,Oppo,Enco Air 2,Titanium,No,18.4,5.3,Lightning,Not Rated,180,2019,1,4.7,3797,Music/Audiophile,Mid-Range,Excellent,Low,Standard
+CMF Buds Pro,CMF,Buds Pro,Dark Green,No,24.4,5.0,Micro-USB,IPX8,140,2020,1,3.9,1304,Commuting/Travel,Mid-Range,Average,Medium,Standard
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Dark Green,No,19,4.2,USB-C,Not Rated,140,2023,1,3.9,1725,Music/Casual,Mid-Range,Average,Low,Standard
+Sony LinkBuds,Sony,LinkBuds,Gunmetal,Yes,17.6,5.0,USB-C,IPX2,390,2023,1,4.3,5107,Budget/Everyday,Premium,Good,Low,Standard
+Oppo Enco Buds2,Oppo,Enco Buds2,Sand,Yes,35.1,5.3,USB-C,IPX7,180,2023,1,4.3,328,Music/Audiophile,Mid-Range,Good,Medium,Standard
+Nothing Ear,Nothing,Ear,Gunmetal,No,23.4,5.0,USB-C,IPX7,180,2019,2,4.1,8335,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Jabra Elite 3,Jabra,Elite 3,Cream,Yes,25.8,5.0,USB-C,IP54,180,2019,1,4.5,482,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Shokz OpenFit Air,Shokz,OpenFit Air,Forest Green,No,34.9,5.0,Lightning,IP54,220,2024,2,4.4,4176,Music/Casual,Mid-Range,Good,Medium,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Red,Yes,36.3,5.0,Micro-USB,IPX8,180,2021,1,4.1,7524,Hi-Fi/Reference,Mid-Range,Good,Medium,Standard
+Realme Buds T100,Realme,Buds T100,Forest Green,No,28.5,5.2,Micro-USB,IPX4,80,2019,2,3.7,11766,Gaming,Budget,Average,Medium,Extended
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Cosmic Black,No,44.1,5.3,Micro-USB,Not Rated,80,2019,1,3.7,5538,Hi-Fi/Reference,Budget,Average,High,Standard
+Jabra Elite 8 Active,Jabra,Elite 8 Active,Graphite,No,13.3,5.2,Lightning,IP57,180,2024,2,4.1,2632,Commuting/Travel,Mid-Range,Good,Low,Extended
+Boult Z40 Pro,Boult,Z40 Pro,Cream,No,25.9,5.0,USB-C,Not Rated,170,2022,2,4.2,1827,Gaming,Mid-Range,Good,Medium,Extended
+Redmi Buds 6,Redmi,Buds 6,Carbon,Yes,37.3,Multipoint 5.3,USB-C,IPX2,190,2020,2,4.6,3987,Budget/Everyday,Mid-Range,Excellent,Medium,Extended
+CMF Buds Pro 2,CMF,Buds Pro 2,White,No,8.3,5.1,USB-C,IP57,90,2021,2,4.1,8297,Gaming,Budget,Good,Low,Extended
+Edifier NeoBuds Pro,Edifier,NeoBuds Pro,Dark Green,No,19.7,5.2,USB-C,IPX7,180,2021,1,4.2,436,Gaming,Mid-Range,Good,Low,Standard
+Redmi Buds 6,Redmi,Buds 6,Brown,Yes,25.9,5.3,USB-C,Not Rated,150,2023,1,4.3,721,Budget/Everyday,Mid-Range,Good,Medium,Standard
+boAt Airdopes 311 Pro,boAt,Airdopes 311 Pro,Navy,Yes,39,5.3,USB-C,IPX7,140,2020,1,4.6,3363,Bass/Casual,Mid-Range,Excellent,Medium,Standard
+boAt Airdopes 170,boAt,Airdopes 170,Sand,Yes,35.1,5.2,USB-C,IP55,220,2020,1,4.3,1101,Music/Audiophile,Mid-Range,Good,Medium,Standard
+CMF Buds,CMF,Buds,Space Gray,No,15,5.2,USB-C,IPX2,130,2020,1,4.7,1784,Commuting/Travel,Mid-Range,Excellent,Low,Standard
+pTron Bassbuds Tango,pTron,Bassbuds Tango,Pearl White,No,27.8,5.0,USB-C,IPX7,90,2023,1,3.9,268,Bass/Casual,Budget,Average,Medium,Standard
+Shokz OpenDots One,Shokz,OpenDots One,Black,No,30.8,5.3,USB-C,Not Rated,170,2024,2,3.8,8155,Bass/Casual,Mid-Range,Average,Medium,Extended
+Realme Buds Air 3,Realme,Buds Air 3,Rose Gold,Yes,34,5.3,USB-C,IP55,160,2022,2,4.9,6042,Budget/Everyday,Mid-Range,Excellent,Medium,Extended
+JBL Wave Beam,JBL,Wave Beam,Champagne,No,27.9,4.2,USB-C,IPX8,170,2021,2,4.5,2604,Music/Casual,Mid-Range,Excellent,Medium,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Midnight Blue,No,21.7,5.0,Micro-USB,IPX8,160,2020,2,4.3,4899,Music/Audiophile,Mid-Range,Good,Medium,Extended
+Shokz OpenDots One,Shokz,OpenDots One,Champagne,No,44.8,5.3,Micro-USB,Not Rated,140,2023,2,4.5,1277,Music/Audiophile,Mid-Range,Excellent,High,Extended
+Redmi Buds 5 Pro,Redmi,Buds 5 Pro,Navy,Yes,20.9,5.3,Lightning,IP57,180,2021,2,4.4,244,Gaming,Mid-Range,Good,Medium,Extended
+Oppo Enco X,Oppo,Enco X,White,Yes,36.1,4.2,Micro-USB,Not Rated,200,2021,2,4.4,592,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Shokz OpenFit Air,Shokz,OpenFit Air,Gunmetal,Yes,49.3,5.0,Lightning,IPX7,120,2019,1,3.9,1870,Gaming,Mid-Range,Average,High,Standard
+Nothing Ear 2,Nothing,Ear 2,Matte Black,Yes,35.8,5.0,USB-C,IP57,200,2024,2,4.4,560,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Sand,No,52.7,5.0,USB-C,IPX7,260,2024,2,4.3,3499,Studio/Pro,Premium,Good,High,Extended
+CMF Buds Pro,CMF,Buds Pro,Silver,Yes,32,5.2,USB-C,IPX2,200,2018,2,4.2,403,Commuting/Travel,Mid-Range,Good,Medium,Extended
+Apple AirPods 2,Apple,AirPods 2,Space Gray,No,34.3,5.0,USB-C,IPX4,90,2018,1,4.8,550,Gaming,Budget,Excellent,Medium,Standard
+Redmi Buds 5,Redmi,Buds 5,Silver,Yes,37.9,5.3,USB-C,Not Rated,110,2019,1,3.9,4491,Music/Casual,Mid-Range,Average,Medium,Standard
+Redmi Buds 5 Pro,Redmi,Buds 5 Pro,Cosmic Black,No,34.2,5.2,Lightning,Not Rated,150,2021,1,4.6,5270,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Forest Green,Yes,12.3,5.0,USB-C,IPX4,330,2018,1,4.3,1726,Sport/Fitness,Premium,Good,Low,Standard
+Boult X Mustang,Boult,X Mustang,Midnight Blue,Yes,22.2,5.3,USB-C,IPX4,210,2022,2,4.4,1539,Budget/Everyday,Mid-Range,Good,Medium,Extended
+Anker Soundcore Life P3,Anker Soundcore,Life P3,Pearl White,No,24.6,Multipoint 5.3,USB-C,Not Rated,100,2019,2,3.9,787,Work/Office,Mid-Range,Average,Medium,Extended
+JBL Vibe Beam,JBL,Vibe Beam,Graphite,Yes,8.3,5.1,Lightning,IP55,290,2018,2,4.2,3849,Budget/Everyday,Premium,Good,Low,Extended
+Realme Buds T300,Realme,Buds T300,Silver,Yes,11.9,Multipoint 5.3,Lightning,IPX4,220,2022,1,4.3,9845,Studio/Pro,Mid-Range,Good,Low,Standard
+boAt Nirvana Zenith,boAt,Nirvana Zenith,Sand,Yes,37.6,5.3,USB-C,IP57,120,2018,1,4.7,1381,Music/Audiophile,Mid-Range,Excellent,Medium,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Pearl White,No,42.2,5.3,USB-C,Not Rated,130,2018,2,4.9,1183,Budget/Everyday,Mid-Range,Excellent,High,Extended
+JBL Live Beam 3,JBL,Live Beam 3,Cream,Yes,43.4,5.0,Lightning,IP55,260,2018,2,3.9,4051,Music/Audiophile,Premium,Average,High,Extended
+Beats Fit Pro,Beats,Fit Pro,Gunmetal,No,15.1,5.3,Micro-USB,IPX8,160,2018,2,4.7,12878,Hi-Fi/Reference,Mid-Range,Excellent,Low,Extended
+Logitech G Fits,Logitech,G Fits,Champagne,Yes,22.2,4.2,Lightning,IP55,140,2024,2,4.2,11263,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Redmi Buds 4,Redmi,Buds 4,Pearl White,No,20.7,4.2,Lightning,IP57,160,2019,2,4.4,1754,Studio/Pro,Mid-Range,Good,Medium,Extended
+Shokz OpenFit Air,Shokz,OpenFit Air,Space Gray,No,38.1,5.0,USB-C,IP54,150,2018,1,4.5,24919,Sport/Fitness,Mid-Range,Excellent,Medium,Standard
+boAt Airdopes Alpha,boAt,Airdopes Alpha,Navy,No,23.6,Multipoint 5.3,USB-C,IP54,160,2022,1,3.9,277,Hi-Fi/Reference,Mid-Range,Average,Medium,Standard
+Sony WF-C700N,Sony,WF-C700N,Brown,Yes,31.5,5.2,USB-C,Not Rated,420,2018,1,4.3,6870,Work/Office,Premium,Good,Medium,Standard
+Realme Buds T100,Realme,Buds T100,Silver,Yes,32.5,5.3,USB-C,IPX4,280,2024,1,4.6,1062,Gaming,Premium,Excellent,Medium,Standard
+JBL Wave Beam,JBL,Wave Beam,Navy,No,17.5,5.2,Micro-USB,IPX2,120,2022,1,4.7,7154,Studio/Pro,Mid-Range,Excellent,Low,Standard
+Edifier X5 Pro,Edifier,X5 Pro,Cream,No,56.8,4.2,USB-C,IPX4,230,2022,1,4.3,418,Work/Office,Mid-Range,Good,High,Standard
+Sennheiser CX True Wireless,Sennheiser,CX True Wireless,Matte Black,Yes,12,5.0,Lightning,Not Rated,150,2020,2,4.3,2072,Gaming,Mid-Range,Good,Low,Extended
+Sony WF-XB700,Sony,WF-XB700,Graphite,Yes,56.6,5.3,USB-C,IP55,140,2018,2,3.9,1552,Work/Office,Mid-Range,Average,High,Extended
+Sennheiser Momentum True Wireless 3,Sennheiser,Momentum True Wireless 3,Cream,No,35.3,Multipoint 5.3,USB-C,Not Rated,70,2020,1,4.3,6364,Budget/Everyday,Budget,Good,Medium,Standard
+Nothing Ear 2,Nothing,Ear 2,Cream,No,44.9,5.0,USB-C,Not Rated,120,2021,1,4.3,3291,Bass/Casual,Mid-Range,Good,High,Standard
+Logitech Zone True Wireless,Logitech,Zone True Wireless,Cream,Yes,12.6,5.3,USB-C,IPX2,340,2021,2,4.1,4521,Budget/Everyday,Premium,Good,Low,Extended
+Sony WF-C700N,Sony,WF-C700N,Cream,Yes,35.2,4.2,USB-C,Not Rated,330,2018,1,4.6,6809,Bass/Casual,Premium,Excellent,Medium,Standard
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Carbon,Yes,8.9,5.2,USB-C,Not Rated,190,2018,1,4.4,7049,Commuting/Travel,Mid-Range,Good,Low,Standard
+Noise Pure Pods,Noise,Pure Pods,Black,No,34.6,5.0,USB-C,IP54,150,2021,1,4.4,564,Music/Casual,Mid-Range,Good,Medium,Standard
+Philips TAT2206,Philips,TAT2206,Forest Green,No,18.2,5.0,USB-C,IPX8,170,2023,1,4.5,654,Studio/Pro,Mid-Range,Excellent,Low,Standard
+Beats Fit Pro,Beats,Fit Pro,Navy,Yes,11,4.2,USB-C,IPX2,310,2024,2,4.6,8356,Studio/Pro,Premium,Excellent,Low,Extended
+boAt Nirvana Crystl,boAt,Nirvana Crystl,Rose Gold,Yes,40.9,4.2,USB-C,IPX2,130,2021,1,4.1,1764,Commuting/Travel,Mid-Range,Good,High,Standard
+Nothing Ear,Nothing,Ear,Cream,Yes,23.5,Multipoint 5.3,USB-C,IPX2,160,2019,1,4.7,2696,Commuting/Travel,Mid-Range,Excellent,Medium,Standard
+Sony WF-XB700,Sony,WF-XB700,Titanium,No,30.4,5.3,Lightning,IPX4,80,2019,1,4.1,572,Music/Audiophile,Budget,Good,Medium,Standard
+Huawei FreeBuds 4i,Huawei,FreeBuds 4i,Midnight Blue,No,33.2,5.2,USB-C,IP57,130,2021,1,4.2,13772,Music/Casual,Mid-Range,Good,Medium,Standard
+Philips TAT4556,Philips,TAT4556,Silver,Yes,23.1,5.3,USB-C,Not Rated,200,2023,1,4.4,2219,Commuting/Travel,Mid-Range,Good,Medium,Standard
+Anker Soundcore Life P2,Anker Soundcore,Life P2,Titanium,No,36,5.0,USB-C,IPX2,110,2024,1,4.2,4602,Bass/Casual,Mid-Range,Good,Medium,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Graphite,No,40.6,Multipoint 5.3,USB-C,IPX7,80,2022,2,3.8,1992,Sport/Fitness,Budget,Average,High,Extended
+OnePlus Nord Buds 2R,OnePlus,Nord Buds 2R,Cream,Yes,21.8,5.3,USB-C,IPX4,250,2019,2,4.2,372,Work/Office,Premium,Good,Medium,Extended
+Apple AirPods 4,Apple,AirPods 4,Champagne,Yes,47.4,5.0,Lightning,IPX4,310,2019,1,3.9,5025,Gaming,Premium,Average,High,Standard
+Oppo Enco X2,Oppo,Enco X2,Matte Black,Yes,13.3,Multipoint 5.3,USB-C,IPX7,320,2024,1,4.5,1855,Work/Office,Premium,Excellent,Low,Standard
+Apple AirPods Pro,Apple,AirPods Pro,Navy,Yes,28.2,5.0,USB-C,Not Rated,290,2018,1,4,1433,Music/Audiophile,Premium,Good,Medium,Standard
+Skullcandy Rail,Skullcandy,Rail,Carbon,Yes,45.2,Multipoint 5.3,Micro-USB,IPX4,310,2024,1,3.8,670,Music/Audiophile,Premium,Average,High,Standard
+boAt Airdopes 170,boAt,Airdopes 170,Cosmic Black,Yes,24.3,5.3,USB-C,Not Rated,220,2020,1,4.8,336,Work/Office,Mid-Range,Excellent,Medium,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Brown,Yes,22,5.2,USB-C,IP55,120,2022,1,4.2,9050,Gaming,Mid-Range,Good,Medium,Standard
+Philips TAT1108,Philips,TAT1108,Forest Green,Yes,44.6,5.0,Micro-USB,Not Rated,240,2022,1,4.4,1818,Music/Casual,Mid-Range,Good,High,Standard
+Apple AirPods 4,Apple,AirPods 4,Black,Yes,9.7,5.1,Lightning,IPX7,260,2019,1,4.3,5356,Music/Casual,Premium,Good,Low,Standard
+Anker Soundcore Liberty 4,Anker Soundcore,Liberty 4,Sand,Yes,25.1,4.2,USB-C,IPX4,410,2022,2,4.5,21967,Gaming,Premium,Excellent,Medium,Extended
+pTron Bassbuds Tango,pTron,Bassbuds Tango,Silver,Yes,37.5,4.2,USB-C,Not Rated,290,2019,2,4.2,40545,Studio/Pro,Premium,Good,Medium,Extended
+Realme Buds Air 5,Realme,Buds Air 5,Sand,No,18.7,5.0,USB-C,IPX4,90,2022,2,4.8,4748,Sport/Fitness,Budget,Excellent,Low,Extended
+Apple AirPods 4,Apple,AirPods 4,Cosmic Black,Yes,14.3,5.0,USB-C,IPX2,270,2019,2,4.1,621,Sport/Fitness,Premium,Good,Low,Extended
+Redmi Buds 6 Play,Redmi,Buds 6 Play,Midnight Blue,No,12.5,5.3,USB-C,Not Rated,160,2023,2,4.3,1346,Commuting/Travel,Mid-Range,Good,Low,Extended
+Nothing Ear 1,Nothing,Ear 1,Red,Yes,33.9,4.2,USB-C,Not Rated,150,2020,2,4,541,Bass/Casual,Mid-Range,Good,Medium,Extended
+Philips TAT4556,Philips,TAT4556,Champagne,No,15.7,5.2,Micro-USB,IPX4,120,2021,1,4.8,8308,Music/Audiophile,Mid-Range,Excellent,Low,Standard
+Huawei FreeBuds 5i,Huawei,FreeBuds 5i,Titanium,No,29.2,5.3,USB-C,IPX2,150,2019,1,4,5502,Work/Office,Mid-Range,Good,Medium,Standard
+CMF Buds,CMF,Buds,Sand,No,49.5,5.0,Lightning,IPX2,130,2022,2,4.3,450,Sport/Fitness,Mid-Range,Good,High,Extended
+Sony WF-1000XM4,Sony,WF-1000XM4,Cosmic Black,Yes,26.1,5.0,USB-C,IPX7,230,2018,1,3.9,1221,Music/Casual,Mid-Range,Average,Medium,Standard
+Redmi Buds 6,Redmi,Buds 6,Cream,No,50.1,5.3,USB-C,Not Rated,250,2023,2,4.4,9422,Bass/Casual,Premium,Good,High,Extended
+Noise Buds VS104,Noise,Buds VS104,Titanium,No,28.4,5.3,Lightning,IPX2,110,2019,1,4.1,4537,Bass/Casual,Mid-Range,Good,Medium,Standard
+Xiaomi Redmi Buds Essential,Xiaomi,Redmi Buds Essential,Forest Green,No,8.6,5.0,USB-C,Not Rated,110,2018,2,4.4,97,Music/Audiophile,Mid-Range,Good,Low,Extended
+Oppo Enco X2,Oppo,Enco X2,Matte Black,Yes,42.3,5.3,USB-C,IPX4,330,2024,2,4.3,1052,Music/Audiophile,Premium,Good,High,Extended
+Beats Studio Buds Plus,Beats,Studio Buds Plus,Graphite,No,25.4,5.0,USB-C,IP55,170,2021,1,4.1,978,Music/Audiophile,Mid-Range,Good,Medium,Standard
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Titanium,Yes,53,5.0,USB-C,IPX7,320,2019,1,4.2,526,Budget/Everyday,Premium,Good,High,Standard
+Huawei FreeBuds Pro 2,Huawei,FreeBuds Pro 2,Matte Black,Yes,35.1,4.2,Micro-USB,IP55,180,2018,1,4.3,535,Budget/Everyday,Mid-Range,Good,Medium,Standard
+Nothing Ear 1,Nothing,Ear 1,Graphite,No,18.3,4.2,USB-C,IP57,160,2024,1,4.4,5202,Sport/Fitness,Mid-Range,Good,Low,Standard
+Anker Soundcore Liberty 4 NC,Anker Soundcore,Liberty 4 NC,Silver,No,25.3,5.0,USB-C,IPX7,230,2019,2,4.4,1513,Sport/Fitness,Mid-Range,Good,Medium,Extended
+Nothing Ear 1,Nothing,Ear 1,Carbon,No,35.8,5.2,Lightning,Not Rated,130,2018,1,4,6566,Gaming,Mid-Range,Good,Medium,Standard
+Samsung Galaxy Buds3 Pro,Samsung,Galaxy Buds3 Pro,White,No,44.8,5.2,Lightning,Not Rated,260,2020,2,4.5,641,Budget/Everyday,Premium,Excellent,High,Extended
+Jabra Elite 5,Jabra,Elite 5,Graphite,Yes,28.4,5.0,Lightning,IPX4,240,2020,1,3.9,902,Bass/Casual,Mid-Range,Average,Medium,Standard
+Boult Omega,Boult,Omega,Space Gray,Yes,42.2,5.3,USB-C,IPX4,250,2022,1,3.8,12902,Music/Casual,Premium,Average,High,Standard
+Nothing Ear 1,Nothing,Ear 1,Titanium,Yes,36.5,5.2,USB-C,Not Rated,210,2023,1,4.3,5796,Studio/Pro,Mid-Range,Good,Medium,Standard
+Boult Curve Max,Boult,Curve Max,Black,Yes,50.2,5.3,USB-C,IPX4,340,2024,1,4.3,8790,Studio/Pro,Premium,Good,High,Standard
+Logitech G Fits,Logitech,G Fits,White,Yes,40.7,5.0,USB-C,IPX2,330,2019,2,4.1,1516,Studio/Pro,Premium,Good,High,Extended
+Redmi Buds 5,Redmi,Buds 5,Graphite,Yes,24.3,4.2,USB-C,IPX8,200,2021,2,4.8,1677,Music/Casual,Mid-Range,Excellent,Medium,Extended
+pTron Bassbuds Tango,pTron,Bassbuds Tango,Matte Black,Yes,37,5.0,USB-C,IPX4,240,2024,2,4.2,5306,Studio/Pro,Mid-Range,Good,Medium,Extended
+Apple AirPods Pro,Apple,AirPods Pro,Dark Green,Yes,20.2,4.2,USB-C,IPX4,210,2024,1,4.6,2508,Bass/Casual,Mid-Range,Excellent,Medium,Standard
+Jabra Elite 7 Pro,Jabra,Elite 7 Pro,Black,No,26.3,5.0,USB-C,IP54,110,2023,2,4.7,498,Studio/Pro,Mid-Range,Excellent,Medium,Extended
+pTron Bassbuds Duo,pTron,Bassbuds Duo,Pearl White,No,25.5,5.3,USB-C,IP57,130,2019,2,4.7,3515,Commuting/Travel,Mid-Range,Excellent,Medium,Extended
+Sony WF-1000XM5,Sony,WF-1000XM5,Dark Green,No,28.5,5.3,USB-C,IPX8,230,2022,1,4.3,952,Bass/Casual,Mid-Range,Good,Medium,Standard
+Philips TAT4556,Philips,TAT4556,Cream,Yes,26.4,4.2,USB-C,IP57,220,2023,1,4.7,2946,Music/Casual,Mid-Range,Excellent,Medium,Standard
+Sennheiser CX Plus,Sennheiser,CX Plus,Forest Green,No,28.8,5.2,USB-C,Not Rated,120,2022,1,4.4,4959,Studio/Pro,Mid-Range,Good,Medium,Standard
+boAt Airdopes 441,boAt,Airdopes 441,Titanium,Yes,41.2,5.3,Lightning,Not Rated,250,2022,2,4.2,1043,Music/Audiophile,Premium,Good,High,Extended
+Xiaomi Buds 4 Pro,Xiaomi,Buds 4 Pro,Black,Yes,56.9,4.2,Lightning,IP55,180,2022,1,4.5,6070,Budget/Everyday,Mid-Range,Excellent,High,Standard
+Samsung Galaxy Buds3,Samsung,Galaxy Buds3,Dark Green,No,30.6,5.3,USB-C,IP57,180,2019,2,4.5,1033,Work/Office,Mid-Range,Excellent,Medium,Extended
