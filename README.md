@@ -1,74 +1,127 @@
-# Wireless Audio Devices Market Analysis & Price Intelligence
+# 🎧 Wireless Earbuds Market Intelligence Dashboard
 
-An end-to-end data analytics project analyzing the wireless earbuds market — covering pricing trends, ratings, battery life, and customer reviews — using **Python**, **SQL**, and **Power BI**.
+An end-to-end Data Analytics project analyzing the wireless earbuds market using **Python, SQL, and Power BI** — covering pricing, ratings, battery life, warranty, water resistance, and brand performance.
 
 ![Dashboard](Dashboard%20Image.png)
 
 ---
 
-## 📌 Project Objective
+## 📌 Project Overview
 
-To analyze the wireless earbuds market and answer key business questions:
-- Which price range offers the best rating-to-price value?
-- How do battery life and price correlate across brands?
-- Which product features (driver size, Bluetooth version, IP rating) drive higher ratings?
-- Where are the pricing and feature gaps competitors could exploit?
+The wireless earbuds market has grown rapidly, with hundreds of brands competing across price points and specifications. This project analyzes 810 products across 30 attributes to uncover market trends, customer preferences, and business opportunities.
+
+---
+
+## 🎯 Objectives
+
+- Analyze wireless earbuds market trends and pricing distribution
+- Compare brand performance and customer ratings
+- Evaluate battery life, warranty, and noise cancellation trends
+- Build an interactive Power BI dashboard for business stakeholders
+- Answer business questions using SQL (CTEs, window functions, ranking)
 
 ---
 
 ## 🗂️ Project Structure
 
 ```
-├── data/
-│   ├── raw_data.csv              # Raw scraped data
-│   └── cleaned_data.csv          # Cleaned, analysis-ready data
-├── notebooks/
-│   └── data_cleaning_eda.ipynb   # Python cleaning + exploratory analysis
-├── sql/
-│   └── analysis_queries.sql      # SQL queries (CTEs, window functions, ranking)
-├── dashboard/
-│   ├── earbuds_dashboard.pbix    # Power BI dashboard file
-│   └── Dashboard Image.png       # Dashboard preview
+├── 01_Data_Cleaning.ipynb          # Data cleaning & EDA (Python)
+├── earbuds_raw.csv                 # Raw scraped data
+├── cleaned_earbuds.csv             # Cleaned, analysis-ready dataset
+├── MySQL queries.sql               # SQL analysis (CTEs, window functions, ranking)
+├── Wireless_Earbuds_Dashboards.pbix # Power BI dashboard file
+├── Dashboard Image.png             # Dashboard preview
+├── scraper.py                      # Web scraping script
+├── utils.py                        # Helper functions used across scripts
 └── README.md
 ```
 
 ---
 
-## 🛠️ Tools & Skills Used
+## 🛠️ Tech Stack
 
 | Tool | Purpose |
 |---|---|
-| Python (Pandas) | Data cleaning, handling missing values, feature engineering |
-| SQL (MySQL) | Window functions, CTEs, ranking, aggregate analysis |
-| Power BI | Interactive dashboard with filters and drill-downs |
+| Python (Pandas, NumPy) | Data cleaning, transformation, EDA |
+| SQL (MySQL) | Window functions, CTEs, ranking, business queries |
+| Power BI | Interactive dashboard with KPI cards and filters |
 
 ---
 
-## 🔍 Key Steps
+## 📂 Dataset
 
-1. **Data Collection** — Product listings scraped covering name, price, rating, color, driver size, battery life, connectivity type, IP rating, and more.
-2. **Data Cleaning (Python)** — Handled missing specification fields, standardized inconsistent units (e.g., battery life formats), removed duplicates.
-3. **SQL Analysis** — Used window functions to rank products by value-for-money within each price bracket; CTEs to segment brands by average rating.
-4. **Dashboard (Power BI)** — Built an interactive dashboard to visualize price distribution, rating trends, and feature comparisons across brands.
-
----
-
-## 📊 Key Insights
-
-- Products in the ₹1,000–1,500 range had the highest rating-to-price ratio
-- Earbuds with IP54+ rating showed 15% higher average ratings
-
+- **Rows:** 810
+- **Columns:** 30
+- **Fields include:** Brand, Product Name, Type, Connectivity, Driver Type, Battery Hours, Price, Average Rating, Review Count, Noise Cancellation, Warranty, Water Rating, Primary Use, Release Year, Color, Weight, and more
 
 ---
 
-## 💡 Business Recommendation
+## 🧹 Data Cleaning (Python)
 
-
-"Brands should prioritize IP rating and battery transparency in the ₹1,000–1,500 segment, where competition is dense but feature disclosure is inconsistent — creating a differentiation opportunity."
+- Removed duplicate records
+- Handled missing values
+- Standardized column names (lowercase, underscores)
+- Fixed inconsistent data types
+- Exported cleaned dataset for SQL/Power BI use
 
 ---
 
+## 💾 SQL Analysis
 
-## 📬 Contact
+Queries range from beginner to advanced level:
+- Aggregate functions, GROUP BY, HAVING
+- CASE WHEN logic
+- Window functions & ranking functions
+- CTEs (Common Table Expressions)
+- Subqueries for business-specific insights
 
-Satendra Kumar — [LinkedIn](linkedin.com/in/satendra-kumar-data-analyst349) | [Email](satendrakv349@gmail.com)
+---
+
+## 📈 Power BI Dashboard
+
+**KPI Cards:** Total Products · Average Price · Average Rating · Average Battery Life · Total Reviews
+
+**Visualizations:** Top 10 Brands · Price Distribution · Primary Use Analysis · Water Rating Distribution · Noise Cancellation Availability · Warranty Distribution
+
+**Interactive Filters:** Brand · Type · Connectivity · Price Range · Release Year
+
+---
+
+## 📌 Key Insights
+
+*(Replace with your specific numbers once you review the dashboard — this is the section recruiters read most closely)*
+
+-  "Products in the ₹X–Y range had the highest rating-to-price ratio"]
+-  "Brand X leads in average rating despite mid-range pricing"]
+-  "Only X% of products under ₹1000 offer IP-rated water resistance"]
+
+---
+
+## 💼 Business Recommendations
+
+- Expand product lines in high-demand, underserved price ranges
+- Improve battery life disclosure and performance in entry-level products
+- Increase warranty duration on budget products to build customer trust
+- Prioritize noise cancellation as a differentiator in the mid-premium segment
+
+---
+
+## 🚀 Future Improvements
+
+- Predict product ratings using machine learning
+- Build a price prediction model
+- Add sentiment analysis on customer reviews
+- Connect the dashboard to a live SQL database
+
+---
+
+## 👨‍💻 Author
+
+**Satendra Kumar** — Aspiring Data Analyst
+Skills: Python · SQL · Power BI · Excel · Pandas · NumPy · Statistics
+
+[LinkedIn](linkedin.com/in/satendra-kumar-data-analyst349) | [Email](satendrakv349@gmail.com)
+
+---
+
+⭐ If you found this project helpful, consider starring the repository.
